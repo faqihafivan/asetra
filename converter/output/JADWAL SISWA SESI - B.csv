@@ -1,0 +1,1374 @@
+Sesi,Kelas,Hari,Jam Ke,Mata Pelajaran,Guru,Kode Guru
+B,X DPIB A,Senin,2,Informatika,Novalia Palinggi,88
+B,X DPIB A,Senin,4,Matematika,Achnesia Poya,3
+B,X DPIB A,Senin,5,Matematika,Achnesia Poya,3
+B,X DPIB A,Senin,6,Balombong Spesifikasi Dan Karakteristik Bahan Bangunan Berbasis Green Material Dan Pekerjaan Konstruksi,Mahsun Wahid,72
+B,X DPIB A,Senin,7,Balombong Spesifikasi Dan Karakteristik Bahan Bangunan Berbasis Green Material Dan Pekerjaan Konstruksi,Mahsun Wahid,72
+B,X DPIB A,Senin,8,Balombong Spesifikasi Dan Karakteristik Bahan Bangunan Berbasis Green Material Dan Pekerjaan Konstruksi,Mahsun Wahid,72
+B,X DPIB A,Senin,9,Balombong Spesifikasi Dan Karakteristik Bahan Bangunan Berbasis Green Material Dan Pekerjaan Konstruksi,Mahsun Wahid,72
+B,X DPIB A,Selasa,2,Matematika,Achnesia Poya Balombong,3
+B,X DPIB A,Selasa,6,Gambar Teknik DPIB,Eka Puspa Rahmatia,34
+B,X DPIB A,Selasa,7,Gambar Teknik DPIB,Eka Puspa Rahmatia,34
+B,X DPIB A,Selasa,8,Proses Bisnis Menyeluruh Pada Bidang Desain Pemodelan Dan Informasi Bangunan,Agung Dwi Putra,5
+B,X DPIB A,Selasa,9,Proses Bisnis Menyeluruh Pada Bidang Desain Pemodelan Dan Informasi Bangunan,Agung Dwi Putra,5
+B,X DPIB A,Selasa,10,Teknik Dasar Pada Pekerjaan Desain Pemodelan Dan Informasi Bangunan,Agung Dwi Putra,5
+B,X DPIB A,Selasa,11,Teknik Dasar Pada Pekerjaan Desain Pemodelan Dan Informasi Bangunan,Agung Dwi Putra,5
+B,X DPIB A,Rabu,2,Matematika,Achnesia Poya Balombong,3
+B,X DPIB A,Rabu,4,Bahasa Inggris,Nurvina,93
+B,X DPIB A,Rabu,7,Informatika,Novalia Palinggi,88
+B,X DPIB A,Rabu,9,Perhitungan Statika Bangunan,Suryadi Bennu,121
+B,X DPIB A,Rabu,10,Perhitungan Statika Bangunan,Suryadi Bennu,121
+B,X DPIB A,Kamis,1,Perkembangan Teknologi Dan Isu- Isu Global Pada Desain Pemodelan Dan Informasi Bangunan,Agung Dwi Putra,5
+B,X DPIB A,Kamis,2,Perkembangan Teknologi Dan Isu- Isu Global Pada Desain Pemodelan Dan Informasi Bangunan,Agung Dwi Putra,5
+B,X DPIB A,Kamis,4,Bahasa Inggris,Nurvina,93
+B,X DPIB A,Kamis,6,Profesi Dan Kewirausahaan (Job-Profil Dan Technopreneurship) Serta Peluang Usaha Di Bidang Desain Pemodelan Dan Informasi Bangunan,Agung Dwi Putra,5
+B,X DPIB A,Kamis,7,Profesi Dan Kewirausahaan (Job-Profil Dan Technopreneurship) Serta Peluang Usaha Di Bidang Desain Pemodelan Dan Informasi Bangunan,Agung Dwi Putra,5
+B,X DPIB A,Kamis,9,Building Information Modelling,Mahsun Wahid,72
+B,X DPIB A,Kamis,10,Building Information Modelling,Mahsun Wahid,72
+B,X DPIB A,Jumat,4,Bahasa Inggris,Nurvina,93
+B,X DPIB A,Jumat,5,Bahasa Inggris,Nurvina,93
+B,X DPIB A,Jumat,7,Informatika,Novalia Palinggi,88
+B,X DPIB B,Senin,1,Pendiidikan Pancasila,Hatifa,47
+B,X DPIB B,Senin,2,Pendiidikan Pancasila,Hatifa,47
+B,X DPIB B,Senin,3,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X DPIB B,Senin,4,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X DPIB B,Senin,5,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X DPIB B,Senin,6,Seni Budaya,Siti Hijriyani,113
+B,X DPIB B,Senin,7,Seni Budaya,Siti Hijriyani,113
+B,X DPIB B,Senin,8,Pendidikan Agama dan Budi Pekerti,Asrina,21
+B,X DPIB B,Senin,9,Pendidikan Agama dan Budi Pekerti,Asrina,21
+B,X DPIB B,Senin,10,Pendidikan Agama dan Budi Pekerti,Asrina,21
+B,X DPIB B,Selasa,1,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X DPIB B,Selasa,2,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X DPIB B,Selasa,5,Mapel Pilihan,Alfian Abdullah Tumu,12
+B,X DPIB B,Selasa,6,Pendidikan Agama dan Budi Pekerti,Asrina,21
+B,X DPIB B,Selasa,7,Pendidikan Agama dan Budi Pekerti,Asrina,21
+B,X DPIB B,Selasa,10,Bahasa Indonesia,Jumran,67
+B,X DPIB B,Rabu,2,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X DPIB B,Rabu,5,Sejarah,Jamalia,66
+B,X DPIB B,Rabu,6,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X DPIB B,Rabu,7,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X DPIB B,Rabu,10,Bahasa Indonesia,Jumran,67
+B,X DPIB B,Kamis,1,Pendiidikan Pancasila,Hatifa,47
+B,X DPIB B,Kamis,2,Pendiidikan Pancasila,Hatifa,47
+B,X DPIB B,Kamis,3,Sejarah,Jamalia,66
+B,X DPIB B,Kamis,4,Sejarah,Jamalia,66
+B,X DPIB B,Kamis,5,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X DPIB B,Kamis,6,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X DPIB B,Kamis,8,Bahasa Indonesia,Jumran,67
+B,X DPIB B,Kamis,9,Bahasa Indonesia,Jumran,67
+B,X DPIB B,Kamis,10,Mapel Pilihan,Alfian Abdullah Tumu,12
+B,X DPIB B,Kamis,11,Mapel Pilihan,Alfian Abdullah Tumu,12
+B,X DPIB B,Jumat,5,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X DPIB B,Jumat,7,Seni Budaya,Siti Hijriyani,113
+B,X DPIB B,Jumat,8,Seni Budaya,Siti Hijriyani,113
+B,X GEO,Senin,1,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Jamalia,66
+B,X GEO,Senin,2,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Jamalia,66
+B,X GEO,Senin,3,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Jamalia,66
+B,X GEO,Senin,4,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Jamalia,66
+B,X GEO,Senin,5,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Jamalia,66
+B,X GEO,Senin,6,Bahasa Indonesia,Zainab,130
+B,X GEO,Senin,7,Bahasa Indonesia,Zainab,130
+B,X GEO,Senin,8,Bahasa Indonesia,Zainab,130
+B,X GEO,Senin,9,Pendiidikan,Pancasila,
+B,X GEO,Senin,10,Pendiidikan,Pancasila,
+B,X GEO,Selasa,2,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Selasa,3,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Selasa,4,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Selasa,5,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Selasa,6,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Selasa,7,Mapel Pilihan,Alfian Abdullah Tumu,12
+B,X GEO,Selasa,8,Mapel Pilihan,Alfian Abdullah Tumu,12
+B,X GEO,Selasa,10,Pendidikan Agama dan Budi Pekerti,Zuraina,131
+B,X GEO,Rabu,2,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Rabu,3,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Rabu,4,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Rabu,5,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Rabu,6,Projek Ilmu Pengetahuan Alam dan Sosial,Merry Krisdianawaty,75
+B,X GEO,Rabu,7,Seni Budaya,Siti Hijriyani,113
+B,X GEO,Rabu,8,Seni Budaya,Siti Hijriyani,113
+B,X GEO,Rabu,10,Bahasa Indonesia,Zainab,130
+B,X GEO,Kamis,1,Mapel Pilihan,Alfian Abdullah Tumu,12
+B,X GEO,Kamis,2,Mapel Pilihan,Alfian Abdullah Tumu,12
+B,X GEO,Kamis,3,Seni Budaya,Siti Hijriyani,113
+B,X GEO,Kamis,5,Sejarah,Jamalia,66
+B,X GEO,Kamis,6,Sejarah,Jamalia,66
+B,X GEO,Kamis,7,Pendiidikan Pancasila,Bambang,22
+B,X GEO,Kamis,8,Pendiidikan Pancasila,Bambang,22
+B,X GEO,Kamis,10,Pendidikan Agama dan Budi Pekerti,Zuraina,131
+B,X GEO,Jumat,5,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X GEO,Jumat,7,Bahasa Indonesia,Zainab,130
+B,X GEO,Jumat,8,Bahasa Indonesia,Zainab,130
+B,X LAS,Senin,1,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Mohamad Juanda Bobihoe,78
+B,X LAS,Senin,2,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Mohamad Juanda Bobihoe,78
+B,X LAS,Senin,3,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Mohamad Juanda Bobihoe,78
+B,X LAS,Senin,4,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Mohamad Juanda Bobihoe,78
+B,X LAS,Senin,5,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Mohamad Juanda Bobihoe,78
+B,X LAS,Senin,6,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Mohamad Juanda Bobihoe,78
+B,X LAS,Senin,7,Mapel Pilihan,Fajar Tri Satria,39
+B,X LAS,Senin,8,Mapel Pilihan,Fajar Tri Satria,39
+B,X LAS,Senin,9,Seni Budaya,,
+B,X LAS,Selasa,2,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X LAS,Selasa,3,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X LAS,Selasa,4,Mapel Pilihan,Fajar Tri Satria,39
+B,X LAS,Selasa,5,Mapel Pilihan,Fajar Tri Satria,39
+B,X LAS,Selasa,6,Sejarah,Jamalia,66
+B,X LAS,Selasa,8,Pendiidikan Pancasila,Bambang,22
+B,X LAS,Rabu,2,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X LAS,Rabu,3,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X LAS,Rabu,4,Seni Budaya,Reinaldo,101
+B,X LAS,Rabu,5,Seni Budaya,Reinaldo,101
+B,X LAS,Rabu,6,Bahasa Indonesia,Muhamad Hasan M. Halidi,82
+B,X LAS,Rabu,7,Bahasa Indonesia,Muhamad Hasan M. Halidi,82
+B,X LAS,Rabu,9,Pendidikan Agama dan Budi,Ahmad Syafi'i,8
+B,X LAS,Rabu,11,Pendidikan Agama dan Budi,Ahmad Syafi'i,8
+B,X LAS,Kamis,2,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X LAS,Kamis,3,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X LAS,Kamis,6,Pendidikan Agama dan Budi Pekerti,Ahmad Syafi'i,8
+B,X LAS,Kamis,8,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X LAS,Jumat,4,Sejarah,Jamalia,66
+B,X LAS,Jumat,5,Sejarah,Jamalia,66
+B,X LAS,Jumat,6,Bahasa Indonesia,Muhamad Hasan M. Halidi,82
+B,X LAS,Jumat,7,Bahasa Indonesia,Muhamad Hasan M. Halidi,82
+B,X OTO A (TKR A),Senin,2,Matematika,Asmawati P,20
+B,X OTO A (TKR A),Senin,3,Matematika,Asmawati P,20
+B,X OTO A (TKR A),Senin,5,Informatika,Retno Rianto,97
+B,X OTO A (TKR A),Senin,7,Perkembangan teknologi otomotif dan dunia kerja serta isu-isu global,Rio Hamsidar,99
+B,X OTO A (TKR A),Senin,8,Perkembangan teknologi otomotif dan dunia kerja serta isu-isu global,Rio Hamsidar,99
+B,X OTO A (TKR A),Senin,9,Bahasa Inggris,Arjust Palintin,18
+B,X OTO A (TKR A),Senin,10,Bahasa Inggris,Arjust Palintin,18
+B,X OTO A (TKR A),Selasa,1,Teknik dasar pemeliharaan dan perbaikan yang terkait dengan seluruh proses bidang otomotif,Wahyudin,126
+B,X OTO A (TKR A),Selasa,2,Teknik dasar pemeliharaan dan perbaikan yang terkait dengan seluruh proses bidang otomotif,Wahyudin,126
+B,X OTO A (TKR A),Selasa,3,Teknik dasar pemeliharaan dan perbaikan yang terkait dengan seluruh proses bidang otomotif,Wahyudin,126
+B,X OTO A (TKR A),Selasa,5,Informatika,Retno Rianto,97
+B,X OTO A (TKR A),Selasa,8,Keselamatan dan Kesehatan Kerja serta Lingkungan Hidup (K3LH) dan budaya kerja industri (tkr),Rio Hamsidar,99
+B,X OTO A (TKR A),Selasa,10,Perkembangan teknologi otomotif dan dunia kerja serta isu-isu global,Rio Hamsidar,99
+B,X OTO A (TKR A),Selasa,11,Perkembangan teknologi otomotif dan dunia kerja serta isu-isu global,Rio Hamsidar,99
+B,X OTO A (TKR A),Rabu,2,Bahasa Inggris,Arjust Palintin,18
+B,X OTO A (TKR A),Rabu,3,Bahasa Inggris,Arjust Palintin,18
+B,X OTO A (TKR A),Rabu,4,"Profesi dan kewirausahaan (job- profile dan technopreneurship)), serta peluang usaha di bidang otomotif","Muh. Rano, 85 Mustakim",80
+B,X OTO A (TKR A),Rabu,5,"Profesi dan kewirausahaan (job- profile dan technopreneurship)), serta peluang usaha di bidang otomotif","Muh. Rano, 85 Mustakim",80
+B,X OTO A (TKR A),Rabu,8,Matematika,Asmawati P,20
+B,X OTO A (TKR A),Rabu,9,Keselamatan dan Kesehatan Kerja serta Lingkungan Hidup (K3LH) dan budaya kerja industri (tkr),Rio Hamsidar,99
+B,X OTO A (TKR A),Rabu,10,Keselamatan dan Kesehatan Kerja serta Lingkungan Hidup (K3LH) dan budaya kerja industri (tkr),Rio Hamsidar,99
+B,X OTO A (TKR A),Rabu,11,Keselamatan dan Kesehatan Kerja serta Lingkungan Hidup (K3LH) dan budaya kerja industri (tkr),Rio Hamsidar,99
+B,X OTO A (TKR A),Kamis,1,Informatika,Retno Rianto,97
+B,X OTO A (TKR A),Kamis,2,Informatika,Retno Rianto,97
+B,X OTO A (TKR A),Kamis,3,Matematika,Asmawati P,20
+B,X OTO A (TKR A),Kamis,5,"Profesi dan kewirausahaan (job- profile dan technopreneurship)), serta peluang usaha di bidang otomotif","Muh. Rano, 85 Mustakim",80
+B,X OTO A (TKR A),Kamis,6,"Profesi dan kewirausahaan (job- profile dan technopreneurship)), serta peluang usaha di bidang otomotif","Muh. Rano, 85 Mustakim",80
+B,X OTO A (TKR A),Kamis,8,Proses bisnis bidang otomotif secara menyeluruh,Wahyudin,126
+B,X OTO A (TKR A),Kamis,9,Teknik dasar pemeliharaan dan perbaikan yang terkait dengan seluruh proses bidang otomotif,Wahyudin,126
+B,X OTO A (TKR A),Kamis,10,Teknik dasar pemeliharaan dan perbaikan yang terkait dengan seluruh proses bidang otomotif,Wahyudin,126
+B,X OTO A (TKR A),Kamis,11,Teknik dasar pemeliharaan dan perbaikan yang terkait dengan seluruh proses bidang otomotif,Wahyudin,126
+B,X OTO A (TKR A),Jumat,5,Bahasa Inggris,Arjust Palintin,18
+B,X OTO A (TKR A),Jumat,8,Proses bisnis bidang otomotif secara menyeluruh,Wahyudin,126
+B,X OTO B (TKR B),Senin,1,Seni Budaya 101 Reinaldo Pendiidikan Pancasila,Hatifa,47
+B,X OTO B (TKR B),Senin,2,Seni Budaya 101 Reinaldo Pendiidikan Pancasila,Hatifa,47
+B,X OTO B (TKR B),Senin,3,Seni Budaya 101 Reinaldo Pendiidikan Pancasila,Hatifa,47
+B,X OTO B (TKR B),Senin,4,Seni Budaya 101 Reinaldo Pendiidikan Pancasila,Hatifa,47
+B,X OTO B (TKR B),Senin,5,Sejarah,Adolphina Duma,4
+B,X OTO B (TKR B),Senin,6,Sejarah,Adolphina Duma,4
+B,X OTO B (TKR B),Senin,7,Bahasa Indonesia 40 Fatmawati Mapel Pilihan,Ilman Pradhana,58
+B,X OTO B (TKR B),Senin,8,Bahasa Indonesia 40 Fatmawati Mapel Pilihan,Ilman Pradhana,58
+B,X OTO B (TKR B),Senin,9,Bahasa Indonesia 40 Fatmawati Mapel Pilihan,Ilman Pradhana,58
+B,X OTO B (TKR B),Senin,10,Bahasa Indonesia 40 Fatmawati Mapel Pilihan,Ilman Pradhana,58
+B,X OTO B (TKR B),Selasa,2,Pendiidikan Pancasila,Hatifa,47
+B,X OTO B (TKR B),Selasa,4,dan Sosial,,
+B,X OTO B (TKR B),Selasa,7,Bahasa Indonesia,Fatmawati,40
+B,X OTO B (TKR B),Selasa,8,Bahasa Indonesia,Fatmawati,40
+B,X OTO B (TKR B),Selasa,10,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,X OTO B (TKR B),Rabu,2,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X OTO B (TKR B),Rabu,4,Projek Ilmu Pengetahuan Alam dan Sosial,Rutiani,105
+B,X OTO B (TKR B),Rabu,5,Projek Ilmu Pengetahuan Alam dan Sosial,Rutiani,105
+B,X OTO B (TKR B),Rabu,6,Projek Ilmu Pengetahuan Alam dan Sosial,Rutiani,105
+B,X OTO B (TKR B),Rabu,8,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,X OTO B (TKR B),Rabu,10,Mapel Pilihan,Ilman Pradhana,58
+B,X OTO B (TKR B),Kamis,2,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X OTO B (TKR B),Kamis,4,Projek Ilmu Pengetahuan Alam dan Sosial,Rutiani,105
+B,X OTO B (TKR B),Kamis,5,Projek Ilmu Pengetahuan Alam dan Sosial,Rutiani,105
+B,X OTO B (TKR B),Kamis,6,Projek Ilmu Pengetahuan Alam dan Sosial,Rutiani,105
+B,X OTO B (TKR B),Kamis,8,Bahasa Indonesia,Fatmawati,40
+B,X OTO B (TKR B),Kamis,10,Seni Budaya,Reinaldo,101
+B,X OTO B (TKR B),Jumat,4,Projek Ilmu Pengetahuan Alam dan Sosial,Rutiani,105
+B,X OTO B (TKR B),Jumat,5,Projek Ilmu Pengetahuan Alam dan Sosial,Rutiani,105
+B,X OTO B (TKR B),Jumat,6,Projek Ilmu Pengetahuan Alam dan Sosial,Rutiani,105
+B,X OTO B (TKR B),Jumat,8,Sejarah,Adolphina Duma,4
+B,X OTO C (TKR C),Senin,1,Proses bisnis bidang otomotif secara menyeluruh,Rio Hamsidar,99
+B,X OTO C (TKR C),Senin,2,Proses bisnis bidang otomotif secara menyeluruh,Rio Hamsidar,99
+B,X OTO C (TKR C),Senin,3,"Profesi dan kewirausahaan (job- profile dan technopreneurship)), serta peluang usaha di bidang otomotif",Muh. Rano,80
+B,X OTO C (TKR C),Senin,4,"Profesi dan kewirausahaan (job- profile dan technopreneurship)), serta peluang usaha di bidang otomotif",Muh. Rano,80
+B,X OTO C (TKR C),Senin,5,Matematika,Asmawati P,20
+B,X OTO C (TKR C),Senin,6,Matematika,Asmawati P,20
+B,X OTO C (TKR C),Senin,8,Bahasa Inggris,Yeni Indah Hidayat,129
+B,X OTO C (TKR C),Senin,9,Perkembangan teknologi otomotif dan dunia kerja serta isu-isu global,Wahyudin,126
+B,X OTO C (TKR C),Senin,10,Perkembangan teknologi otomotif dan dunia kerja serta isu-isu global,Wahyudin,126
+B,X OTO C (TKR C),Selasa,1,Proses bisnis bidang otomotif secara menyeluruh,Rio Hamsidar,99
+B,X OTO C (TKR C),Selasa,2,Proses bisnis bidang otomotif secara menyeluruh,Rio Hamsidar,99
+B,X OTO C (TKR C),Selasa,4,Matematika,Asmawati P,20
+B,X OTO C (TKR C),Selasa,8,Informatika,Muh. Nur Rahmat,132
+B,X OTO C (TKR C),Selasa,10,dan perbaikan yang terkait,dengan seluruh proses,
+B,X OTO C (TKR C),Rabu,2,Matematika,Asmawati P,20
+B,X OTO C (TKR C),Rabu,4,Perkembangan teknologi otomotif dan dunia kerja serta isu-isu global,Wahyudin,126
+B,X OTO C (TKR C),Rabu,7,Kerja serta Lingkungan Hidup (K3LH) dan budaya kerja industri (tkr),Wahyudin,126
+B,X OTO C (TKR C),Rabu,8,Kerja serta Lingkungan Hidup (K3LH) dan budaya kerja industri (tkr),Wahyudin,126
+B,X OTO C (TKR C),Rabu,10,Informatika,Muh. Nur Rahmat,132
+B,X OTO C (TKR C),Kamis,2,Bahasa Inggris,Yeni Indah Hidayat,129
+B,X OTO C (TKR C),Kamis,4,Keselamatan dan Kesehatan Kerja serta Lingkungan Hidup (K3LH) dan budaya kerja industri (tkr),Wahyudin,126
+B,X OTO C (TKR C),Kamis,7,"Profesi dan kewirausahaan (job- profile dan technopreneurship)), serta peluang usaha di bidang otomotif",Muh. Rano,80
+B,X OTO C (TKR C),Kamis,8,"Profesi dan kewirausahaan (job- profile dan technopreneurship)), serta peluang usaha di bidang otomotif",Muh. Rano,80
+B,X OTO C (TKR C),Kamis,10,Teknik dasar pemeliharaan dan perbaikan yang terkait dengan seluruh proses bidang otomotif,Abdul Rahman,2
+B,X OTO C (TKR C),Jumat,4,Informatika,Muh. Nur Rahmat,132
+B,X OTO C (TKR C),Jumat,8,Bahasa Inggris,Yeni Indah Hidayat,129
+B,X OTO D (TSM A),Senin,1,Bahasa Indonesia,Arlin Marselina Toroilu,19
+B,X OTO D (TSM A),Senin,2,Bahasa Indonesia,Arlin Marselina Toroilu,19
+B,X OTO D (TSM A),Senin,3,Pendidikan Agama dan Budi Pekerti,Irfan Ladang,61
+B,X OTO D (TSM A),Senin,4,Pendidikan Agama dan Budi Pekerti,Irfan Ladang,61
+B,X OTO D (TSM A),Senin,5,Pendidikan Agama dan Budi Pekerti,Irfan Ladang,61
+B,X OTO D (TSM A),Senin,6,Pendiidikan Pancasila,Hatifa,47
+B,X OTO D (TSM A),Senin,7,Pendiidikan Pancasila,Hatifa,47
+B,X OTO D (TSM A),Senin,8,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X OTO D (TSM A),Senin,9,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X OTO D (TSM A),Senin,10,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X OTO D (TSM A),Selasa,2,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X OTO D (TSM A),Selasa,5,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X OTO D (TSM A),Selasa,7,Mapel Pilihan,Fajar Tri Satria,39
+B,X OTO D (TSM A),Selasa,8,Mapel Pilihan,Fajar Tri Satria,39
+B,X OTO D (TSM A),Selasa,10,Bahasa Indonesia,Arlin Marselina Toroilu,19
+B,X OTO D (TSM A),Rabu,2,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X OTO D (TSM A),Rabu,5,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X OTO D (TSM A),Rabu,7,Pendidikan Agama dan Budi,Pekerti,
+B,X OTO D (TSM A),Rabu,8,Pendidikan Agama dan Budi,Pekerti,
+B,X OTO D (TSM A),Rabu,10,Seni Budaya,Reinaldo,101
+B,X OTO D (TSM A),Kamis,2,Seni Budaya,Reinaldo,101
+B,X OTO D (TSM A),Kamis,3,Pendiidikan Pancasila,Hatifa,47
+B,X OTO D (TSM A),Kamis,4,Pendiidikan Pancasila,Hatifa,47
+B,X OTO D (TSM A),Kamis,5,Mapel Pilihan,Fajar Tri Satria,39
+B,X OTO D (TSM A),Kamis,7,Sejarah,Adolphina Duma,4
+B,X OTO D (TSM A),Kamis,8,Sejarah,Adolphina Duma,4
+B,X OTO D (TSM A),Kamis,10,Bahasa Indonesia,Arlin Marselina Toroilu,19
+B,X OTO D (TSM A),Jumat,5,Sejarah,Adolphina Duma,4
+B,X OTO D (TSM A),Jumat,6,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X OTO D (TSM A),Jumat,7,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X OTO E (TSM B),Senin,1,Bahasa Inggris,Nurvina,93
+B,X OTO E (TSM B),Senin,2,Bahasa Inggris,Nurvina,93
+B,X OTO E (TSM B),Senin,3,Bahasa Inggris,Nurvina,93
+B,X OTO E (TSM B),Senin,5,Dasar- Dasar Program Keahlian,Anis,15
+B,X OTO E (TSM B),Senin,6,Dasar- Dasar Program Keahlian,Anis,15
+B,X OTO E (TSM B),Senin,7,Dasar- Dasar Program Keahlian,Anis,15
+B,X OTO E (TSM B),Senin,8,Dasar- Dasar Program Keahlian,Anis,15
+B,X OTO E (TSM B),Senin,9,Ma'ruf,,
+B,X OTO E (TSM B),Selasa,1,Informatika,Dwi Putra Kurniawan,33
+B,X OTO E (TSM B),Selasa,2,Informatika,Dwi Putra Kurniawan,33
+B,X OTO E (TSM B),Selasa,3,Bahasa Inggris,Nurvina,93
+B,X OTO E (TSM B),Selasa,4,Bahasa Inggris,Nurvina,93
+B,X OTO E (TSM B),Selasa,8,Dasar-Dasar Program Keahlian,,
+B,X OTO E (TSM B),Rabu,2,Informatika,,
+B,X OTO E (TSM B),Rabu,6,Dasar-Dasar Program Keahlian,,
+B,X OTO E (TSM B),Rabu,10,Matematika,,
+B,X OTO E (TSM B),Kamis,2,Informatika,,
+B,X OTO E (TSM B),Kamis,5,Matematika,Eka Wahyuni,35
+B,X OTO E (TSM B),Kamis,9,Dasar-Dasar Program Keahlian,Anis Ma'ruf,15
+B,X OTO E (TSM B),Jumat,4,Matematika,Eka Wahyuni,35
+B,X OTO E (TSM B),Jumat,5,Matematika,Eka Wahyuni,35
+B,X OTO E (TSM B),Jumat,7,Bahasa Inggris,Nurvina,93
+B,X PPLG A,Senin,1,Bahasa Inggris,Ni Made Dewi Artati,87
+B,X PPLG A,Senin,2,Bahasa Inggris,Ni Made Dewi Artati,87
+B,X PPLG A,Senin,3,Bahasa Inggris,Ni Made Dewi Artati,87
+B,X PPLG A,Senin,5,Dasar- Dasar Program Keahlian,Marlina,74
+B,X PPLG A,Senin,6,Dasar- Dasar Program Keahlian,Marlina,74
+B,X PPLG A,Senin,7,Dasar- Dasar Program Keahlian,Marlina,74
+B,X PPLG A,Senin,8,Dasar- Dasar Program Keahlian,Marlina,74
+B,X PPLG A,Senin,9,Lapalutu,,
+B,X PPLG A,Selasa,2,Informatika,Fajar Tri Satria,39
+B,X PPLG A,Selasa,3,Informatika,Fajar Tri Satria,39
+B,X PPLG A,Selasa,6,Dasar-Dasar Program Keahlian,,
+B,X PPLG A,Selasa,10,Matematika,,
+B,X PPLG A,Rabu,1,Informatika,Fajar Tri Satria,39
+B,X PPLG A,Rabu,2,Informatika,Fajar Tri Satria,39
+B,X PPLG A,Rabu,5,Dasar-Dasar Program Keahlian,Marlina Lapalutu,74
+B,X PPLG A,Rabu,6,Dasar-Dasar Program Keahlian,Marlina Lapalutu,74
+B,X PPLG A,Rabu,10,Matematika,Elsa Fiolin Tunggai,37
+B,X PPLG A,Rabu,11,Matematika,Elsa Fiolin Tunggai,37
+B,X PPLG A,Kamis,2,Informatika,Fajar Tri Satria,39
+B,X PPLG A,Kamis,3,Informatika,Fajar Tri Satria,39
+B,X PPLG A,Kamis,6,Dasar-Dasar Program Keahlian87,,
+B,X PPLG A,Kamis,10,Matematika,,
+B,X PPLG A,Jumat,5,Bahasa Inggris,Ni Made Dewi Artati,
+B,X PPLG A,Jumat,7,Bahasa Inggris,Ni Made Dewi Artati,87
+B,X PPLG A,Jumat,8,Bahasa Inggris,Ni Made Dewi Artati,87
+B,X PPLG B,Senin,1,"Pendidikan Jasmani, Olah raga dan Kesehatan Pendiidikan Pancasila",Bambang,22
+B,X PPLG B,Senin,2,"Pendidikan Jasmani, Olah raga dan Kesehatan Pendiidikan Pancasila",Bambang,22
+B,X PPLG B,Senin,3,"Pendidikan Jasmani, Olah raga dan Kesehatan Pendiidikan Pancasila",Bambang,22
+B,X PPLG B,Senin,4,"Pendidikan Jasmani, Olah raga dan Kesehatan Pendiidikan Pancasila",Bambang,22
+B,X PPLG B,Senin,5,"Pendidikan Jasmani, Olah raga dan Kesehatan Pendiidikan Pancasila",Bambang,22
+B,X PPLG B,Senin,6,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Mapel Pilihan",Ratna Ambar Widuri,96
+B,X PPLG B,Senin,7,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Mapel Pilihan",Ratna Ambar Widuri,96
+B,X PPLG B,Senin,8,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Mapel Pilihan",Ratna Ambar Widuri,96
+B,X PPLG B,Senin,9,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Mapel Pilihan",Ratna Ambar Widuri,96
+B,X PPLG B,Senin,10,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Mapel Pilihan",Ratna Ambar Widuri,96
+B,X PPLG B,Selasa,1,Pendiidikan Pancasila,Bambang,22
+B,X PPLG B,Selasa,2,Pendiidikan Pancasila,Bambang,22
+B,X PPLG B,Selasa,3,Sejarah,Suraiya,120
+B,X PPLG B,Selasa,5,Seni Budaya,Siti Hijriyani,113
+B,X PPLG B,Selasa,6,Seni Budaya,Siti Hijriyani,113
+B,X PPLG B,Selasa,8,Bahasa Indonesia,Bayu Risma Wanto,25
+B,X PPLG B,Selasa,10,Pendidikan Agama dan Budi Pekerti,Asrina,21
+B,X PPLG B,Rabu,2,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X PPLG B,Rabu,3,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X PPLG B,Rabu,5,Bahasa Indonesia,Bayu Risma Wanto,25
+B,X PPLG B,Rabu,8,Projek Ilmu Pengetahuan Alam dan Sosial,"Sumarni, S.Pd",118
+B,X PPLG B,Rabu,10,Mapel Pilihan,Ratna Ambar Widuri,96
+B,X PPLG B,Kamis,1,Seni Budaya,Siti Hijriyani,113
+B,X PPLG B,Kamis,2,Seni Budaya,Siti Hijriyani,113
+B,X PPLG B,Kamis,3,Projek Ilmu Pengetahuan Alam,dan Sosial,
+B,X PPLG B,Kamis,4,Projek Ilmu Pengetahuan Alam,dan Sosial,
+B,X PPLG B,Kamis,8,Pendidikan Agama dan Budi Pekerti,Asrina,21
+B,X PPLG B,Kamis,10,Bahasa Indonesia,Bayu Risma Wanto,25
+B,X PPLG B,Jumat,8,Projek Ilmu Pengetahuan Alam dan Sosial,"Sumarni, S.Pd",118
+B,X TE A,Senin,1,Gambar teknik elektronika,Santika,107
+B,X TE A,Senin,2,Gambar teknik elektronika,Santika,107
+B,X TE A,Senin,3,Gambar teknik elektronika,Santika,107
+B,X TE A,Senin,4,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE A,Senin,5,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE A,Senin,6,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE A,Senin,7,Bahasa Inggris,I Wayan Sudarta,54
+B,X TE A,Senin,8,Bahasa Inggris,I Wayan Sudarta,54
+B,X TE A,Senin,9,Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE A,Senin,10,Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE A,Selasa,1,Konsep dasar kelistrikan dan elektronika,Paulus PB,94
+B,X TE A,Selasa,2,Konsep dasar kelistrikan dan elektronika,Paulus PB,94
+B,X TE A,Selasa,4,Bahasa Inggris,I Wayan Sudarta,54
+B,X TE A,Selasa,6,Matematika,Jali,65
+B,X TE A,Selasa,7,Matematika,Jali,65
+B,X TE A,Selasa,10,Informatika,Gede Rendiyana,43
+B,X TE A,Rabu,1,Konsep dasar kelistrikan dan elektronika,Paulus PB,94
+B,X TE A,Rabu,2,Konsep dasar kelistrikan dan elektronika,Paulus PB,94
+B,X TE A,Rabu,3,Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE A,Rabu,4,Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE A,Rabu,5,Perkembangan teknologi di dunia kerja dan isu-isu global terkait dunia industri manufaktur dan rekayasa elektronika,Rapnawati,95
+B,X TE A,Rabu,6,Perkembangan teknologi di dunia kerja dan isu-isu global terkait dunia industri manufaktur dan rekayasa elektronika,Rapnawati,95
+B,X TE A,Rabu,8,Gambar teknik elektronika,Santika,107
+B,X TE A,Rabu,10,Keselamatan dan Kesehatan Kerja Lingkungan Hidup (K3LH) dan budaya kerja industri tav,Novalia Palinggi,88
+B,X TE A,Kamis,2,Bahasa Inggris,I Wayan Sudarta,54
+B,X TE A,Kamis,4,Matematika,Jali,65
+B,X TE A,Kamis,5,Matematika,Jali,65
+B,X TE A,Kamis,6,Informatika,Gede Rendiyana,43
+B,X TE A,Kamis,7,Informatika,Gede Rendiyana,43
+B,X TE A,Kamis,10,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE A,Jumat,4,Informatika,Gede Rendiyana,43
+B,X TE A,Jumat,5,Informatika,Gede Rendiyana,43
+B,X TE A,Jumat,6,Matematika,Jali,65
+B,X TE A,Jumat,7,Matematika,Jali,65
+B,X TE B,Senin,1,Sejarah,Adolphina Duma,4
+B,X TE B,Senin,2,Sejarah,Adolphina Duma,4
+B,X TE B,Senin,3,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,X TE B,Senin,4,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,X TE B,Senin,5,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,X TE B,Senin,6,Mapel Pilihan 104 Rugaiyah R. Nampu Bahasa Indonesia,Fidyana,42
+B,X TE B,Senin,7,Mapel Pilihan 104 Rugaiyah R. Nampu Bahasa Indonesia,Fidyana,42
+B,X TE B,Senin,8,Mapel Pilihan 104 Rugaiyah R. Nampu Bahasa Indonesia,Fidyana,42
+B,X TE B,Senin,9,Mapel Pilihan 104 Rugaiyah R. Nampu Bahasa Indonesia,Fidyana,42
+B,X TE B,Senin,10,Mapel Pilihan 104 Rugaiyah R. Nampu Bahasa Indonesia,Fidyana,42
+B,X TE B,Selasa,2,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X TE B,Selasa,5,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TE B,Selasa,7,Mapel Pilihan,Rugaiyah R. Nampu,104
+B,X TE B,Selasa,9,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,X TE B,Selasa,10,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,X TE B,Selasa,11,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,X TE B,Rabu,1,Bahasa Indonesia,Fidyana,42
+B,X TE B,Rabu,2,Bahasa Indonesia,Fidyana,42
+B,X TE B,Rabu,3,Pendiidikan Pancasila,Milka Sannu,76
+B,X TE B,Rabu,4,Pendiidikan Pancasila,Milka Sannu,76
+B,X TE B,Rabu,5,Seni Budaya,Siti Hijriyani,113
+B,X TE B,Rabu,7,Sejarah,Adolphina Duma,4
+B,X TE B,Rabu,9,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TE B,Rabu,10,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TE B,Rabu,11,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TE B,Kamis,2,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X TE B,Kamis,5,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TE B,Kamis,7,Seni Budaya,Siti Hijriyani,113
+B,X TE B,Kamis,10,Bahasa Indonesia,,
+B,X TE B,Jumat,5,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TE B,Jumat,7,Pendiidikan Pancasila,Milka Sannu,76
+B,X TE C,Senin,1,Matematika,Achnesia Poya,3
+B,X TE C,Senin,2,Matematika,Achnesia Poya,3
+B,X TE C,Senin,3,Balombong Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE C,Senin,4,Balombong Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE C,Senin,5,Balombong Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE C,Senin,6,Bahasa Inggris,Deysi Chrystiyanti,30
+B,X TE C,Senin,7,Bahasa Inggris,Deysi Chrystiyanti,30
+B,X TE C,Senin,8,Gambar,teknik,
+B,X TE C,Senin,9,Gambar,teknik,
+B,X TE C,Selasa,2,Informatika,Santika,107
+B,X TE C,Selasa,5,Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE C,Selasa,7,"Alat ukur listrik, elektronika, dan",instrumentasi,
+B,X TE C,Rabu,2,Gambar teknik elektronika,Santika,107
+B,X TE C,Rabu,5,Matematika,Achnesia Poya Balombong,3
+B,X TE C,Rabu,7,Perkembangan teknologi di dunia kerja dan isu-isu global terkait dunia industri manufaktur dan rekayasa elektronika,Rapnawati,95
+B,X TE C,Rabu,8,Perkembangan teknologi di dunia kerja dan isu-isu global terkait dunia industri manufaktur dan rekayasa elektronika,Rapnawati,95
+B,X TE C,Rabu,11,instrumentasi,Gede Rendiyana,43
+B,X TE C,Kamis,1,Konsep dasar kelistrikan dan elektronika,Paulus PB,94
+B,X TE C,Kamis,2,Konsep dasar kelistrikan dan elektronika,Paulus PB,94
+B,X TE C,Kamis,3,Matematika,Achnesia Poya Balombong,3
+B,X TE C,Kamis,4,Matematika,Achnesia Poya Balombong,3
+B,X TE C,Kamis,5,Informatika,Santika,107
+B,X TE C,Kamis,7,Bahasa Inggris,Deysi Chrystiyanti,30
+B,X TE C,Kamis,8,Bahasa Inggris,Deysi Chrystiyanti,30
+B,X TE C,Kamis,11,Kerja Lingkungan Hidup (K3LH) dan budaya kerja industri tav,Novalia Palinggi,88
+B,X TE C,Jumat,5,Konsep dasar kelistrikan dan elektronika,Paulus PB,94
+B,X TE C,Jumat,7,Informatika,Santika,107
+B,X TE D,Senin,1,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Risky Nurfatimah Rauf,134
+B,X TE D,Senin,2,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Risky Nurfatimah Rauf,134
+B,X TE D,Senin,3,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Risky Nurfatimah Rauf,134
+B,X TE D,Senin,4,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Risky Nurfatimah Rauf,134
+B,X TE D,Senin,5,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Risky Nurfatimah Rauf,134
+B,X TE D,Senin,6,"Pendidikan Jasmani, Olah raga dan Kesehatan Projek Ilmu Pengetahuan Alam dan Sosial",Risky Nurfatimah Rauf,134
+B,X TE D,Senin,7,Sejarah,Jamalia,66
+B,X TE D,Senin,8,Sejarah,Jamalia,66
+B,X TE D,Senin,9,Mapel,Pilihan,
+B,X TE D,Senin,10,Mapel,Pilihan,
+B,X TE D,Selasa,2,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X TE D,Selasa,3,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X TE D,Selasa,6,Pendidikan Agama dan Budi Pekerti,Irfan Ladang,61
+B,X TE D,Selasa,7,Seni Budaya,Siti Hijriyani,113
+B,X TE D,Selasa,8,Seni Budaya,Siti Hijriyani,113
+B,X TE D,Selasa,10,Bahasa Indonesia,Fidyana,42
+B,X TE D,Rabu,1,Pendiidikan Pancasila,Milka Sannu,76
+B,X TE D,Rabu,2,Pendiidikan Pancasila,Milka Sannu,76
+B,X TE D,Rabu,3,Seni Budaya,Siti Hijriyani,113
+B,X TE D,Rabu,6,Bahasa Indonesia,Fidyana,42
+B,X TE D,Rabu,7,Sejarah,Jamalia,66
+B,X TE D,Rabu,8,Sejarah,Jamalia,66
+B,X TE D,Rabu,10,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X TE D,Kamis,2,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X TE D,Kamis,3,Projek Ilmu Pengetahuan Alam dan Sosial,Risky Nurfatimah Rauf,134
+B,X TE D,Kamis,6,Bahasa Indonesia,Fidyana,42
+B,X TE D,Kamis,7,Pendiidikan Pancasila,Milka Sannu,76
+B,X TE D,Kamis,8,Pendiidikan Pancasila,Milka Sannu,76
+B,X TE D,Kamis,10,Pendidikan Agama dan Budi Pekerti,Irfan Ladang,61
+B,X TE D,Jumat,6,"Pendidikan Jasmani, Olah raga dan Kesehatan Mapel Pilihan",Rugaiyah R. Nampu,104
+B,X TE D,Jumat,7,"Pendidikan Jasmani, Olah raga dan Kesehatan Mapel Pilihan",Rugaiyah R. Nampu,104
+B,X TE D,Jumat,8,"Pendidikan Jasmani, Olah raga dan Kesehatan Mapel Pilihan",Rugaiyah R. Nampu,104
+B,X TE E,Senin,2,Informatika,,
+B,X TE E,Senin,4,Konsep dasar kelistrikan dan elektronika,Mohammad Sahrir,79
+B,X TE E,Senin,5,Konsep dasar kelistrikan dan elektronika,Mohammad Sahrir,79
+B,X TE E,Senin,6,Perkembangan teknologi di dunia kerja dan isu-isu global terkait dunia industri manufaktur dan rekayasa elektronika,Rapnawati,95
+B,X TE E,Senin,7,Perkembangan teknologi di dunia kerja dan isu-isu global terkait dunia industri manufaktur dan rekayasa elektronika,Rapnawati,95
+B,X TE E,Senin,9,Bahasa Inggris,Deysi Chrystiyanti,30
+B,X TE E,Selasa,1,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE E,Selasa,2,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE E,Selasa,3,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE E,Selasa,5,Matematika,Syaefulloh,122
+B,X TE E,Selasa,7,Keselamatan dan Kesehatan Kerja Lingkungan Hidup (K3LH) dan budaya kerja industri tav,Novalia Palinggi,88
+B,X TE E,Selasa,10,Gambar teknik elektronika,,
+B,X TE E,Rabu,1,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE E,Rabu,2,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE E,Rabu,3,"Alat ukur listrik, elektronika, dan instrumentasi",Gede Rendiyana,43
+B,X TE E,Rabu,5,Matematika,Syaefulloh,122
+B,X TE E,Rabu,7,Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE E,Rabu,10,Bahasa Inggris,,
+B,X TE E,Kamis,1,Bahasa Inggris,Deysi Chrystiyanti,30
+B,X TE E,Kamis,2,Bahasa Inggris,Deysi Chrystiyanti,30
+B,X TE E,Kamis,3,Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE E,Kamis,4,Komponen elektronika aktif dan pasif,Muh. Rum,81
+B,X TE E,Kamis,5,Matematika,,
+B,X TE E,Kamis,7,Informatika,Muh. Rum,81
+B,X TE E,Kamis,10,Gambar teknik elektronika,,
+B,X TE E,Jumat,5,Informatika,Muh. Rum,81
+B,X TE E,Jumat,7,Konsep dasar kelistrikan dan elektronika,Mohammad Sahrir,79
+B,X TJKT A,Senin,1,Informatika,Wiwik,127
+B,X TJKT A,Senin,2,Informatika,Wiwik,127
+B,X TJKT A,Senin,3,Supriyatin,,
+B,X TJKT A,Senin,5,Dasar Program Keahlian,Alfian,12
+B,X TJKT A,Senin,6,Dasar Program Keahlian,Alfian,12
+B,X TJKT A,Senin,7,Dasar Program Keahlian,Alfian,12
+B,X TJKT A,Senin,8,Dasar Program Keahlian,Alfian,12
+B,X TJKT A,Senin,9,Abdullah,Tumu,
+B,X TJKT A,Senin,10,Abdullah,Tumu,
+B,X TJKT A,Selasa,2,Matematika,,
+B,X TJKT A,Selasa,5,Bahasa Inggris,Rita Sriyani,100
+B,X TJKT A,Selasa,9,Informatika,Wiwik Supriyatin,127
+B,X TJKT A,Rabu,1,Matematika,Leonard Randanan,70
+B,X TJKT A,Rabu,2,Matematika,Leonard Randanan,70
+B,X TJKT A,Rabu,6,NastrunDasar-Dasar Program,,
+B,X TJKT A,Rabu,10,Bahasa Inggris,Rita Sriyani Nastrun,100
+B,X TJKT A,Rabu,11,Bahasa Inggris,Rita Sriyani Nastrun,100
+B,X TJKT A,Kamis,2,Matematika,,
+B,X TJKT A,Kamis,6,KeahlianDasar-Dasar Program,,
+B,X TJKT A,Kamis,10,Bahasa Inggris,,
+B,X TJKT A,Jumat,6,KeahlianDasar-Dasar Program Keahlian,,
+B,X TJKT B,Senin,1,"Pendidikan Jasmani, Olah raga dan Kesehatan Seni Budaya",Siti Hijriyani,113
+B,X TJKT B,Senin,2,"Pendidikan Jasmani, Olah raga dan Kesehatan Seni Budaya",Siti Hijriyani,113
+B,X TJKT B,Senin,3,"Pendidikan Jasmani, Olah raga dan Kesehatan Seni Budaya",Siti Hijriyani,113
+B,X TJKT B,Senin,4,Projek Ilmu Pengetahuan Alam dan Sosial,Sulastri,117
+B,X TJKT B,Senin,5,Projek Ilmu Pengetahuan Alam dan Sosial,Sulastri,117
+B,X TJKT B,Senin,6,Projek Ilmu Pengetahuan Alam dan Sosial,Sulastri,117
+B,X TJKT B,Senin,7,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,X TJKT B,Senin,8,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,X TJKT B,Senin,9,Pendiidikan,Pancasila,
+B,X TJKT B,Senin,10,Pendiidikan,Pancasila,
+B,X TJKT B,Selasa,1,Seni Budaya,Siti Hijriyani,113
+B,X TJKT B,Selasa,3,Projek Ilmu Pengetahuan Alam dan Sosial,Sulastri,117
+B,X TJKT B,Selasa,4,Projek Ilmu Pengetahuan Alam dan Sosial,Sulastri,117
+B,X TJKT B,Selasa,6,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,X TJKT B,Selasa,8,Bahasa Indonesia,Israwati,63
+B,X TJKT B,Selasa,10,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,X TJKT B,Rabu,1,Pendidikan Agama dan Budi Pekerti,Asrina,21
+B,X TJKT B,Rabu,5,Projek Ilmu Pengetahuan Alam dan Sosial,Sulastri,117
+B,X TJKT B,Rabu,6,Projek Ilmu Pengetahuan Alam dan Sosial,Sulastri,117
+B,X TJKT B,Rabu,8,Sejarah,Suraiya,120
+B,X TJKT B,Rabu,10,Bahasa Indonesia,Israwati,63
+B,X TJKT B,Kamis,1,Pendidikan Agama dan Budi Pekerti,Asrina,21
+B,X TJKT B,Kamis,5,Projek Ilmu Pengetahuan Alam dan Sosial,Sulastri,117
+B,X TJKT B,Kamis,6,Projek Ilmu Pengetahuan Alam dan Sosial,Sulastri,117
+B,X TJKT B,Kamis,8,Bahasa Indonesia,Israwati,63
+B,X TJKT B,Kamis,10,Sejarah,Suraiya,120
+B,X TJKT B,Jumat,6,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X TKL A,Senin,1,Alat ukur dan alat uji kelistrikan,Eli Rahmawati,36
+B,X TKL A,Senin,2,Alat ukur dan alat uji kelistrikan,Eli Rahmawati,36
+B,X TKL A,Senin,3,Alat ukur dan alat uji kelistrikan,Eli Rahmawati,36
+B,X TKL A,Senin,4,Alat ukur dan alat uji kelistrikan,Eli Rahmawati,36
+B,X TKL A,Senin,5,Teori dasar listrik dan bahan dalam ketenagalistrikan,Eli Rahmawati,36
+B,X TKL A,Senin,6,Teori dasar listrik dan bahan dalam ketenagalistrikan,Eli Rahmawati,36
+B,X TKL A,Senin,7,Teori dasar listrik dan bahan dalam ketenagalistrikan,Eli Rahmawati,36
+B,X TKL A,Senin,9,Matematika,Ariyanti,17
+B,X TKL A,Senin,10,Matematika,Ariyanti,17
+B,X TKL A,Selasa,2,Informatika,,
+B,X TKL A,Selasa,4,Profesi dan kewirausahaan (job- profile dan technopreneurship) serta peluang usaha di bidang ketenagalistrikan,Dian Yurahly,31
+B,X TKL A,Selasa,5,Profesi dan kewirausahaan (job- profile dan technopreneurship) serta peluang usaha di bidang ketenagalistrikan,Dian Yurahly,31
+B,X TKL A,Selasa,6,Teknik dasar proses kerja dan teknologi pada bidang ketenagalistrikan,Dian Yurahly,31
+B,X TKL A,Selasa,7,Teknik dasar proses kerja dan teknologi pada bidang ketenagalistrikan,Dian Yurahly,31
+B,X TKL A,Selasa,8,Proses bisnis menyeluruh di bidang industri ketenagalistrikan,Dian Yurahly,31
+B,X TKL A,Selasa,9,Proses bisnis menyeluruh di bidang industri ketenagalistrikan,Dian Yurahly,31
+B,X TKL A,Selasa,10,Perkembangan teknologi dan isu- isu global terkait industri ketenagalistrikan,Dian Yurahly,31
+B,X TKL A,Selasa,11,Perkembangan teknologi dan isu- isu global terkait industri ketenagalistrikan,Dian Yurahly,31
+B,X TKL A,Rabu,2,Informatika,,
+B,X TKL A,Rabu,5,Bahasa Inggris,Rosmini,103
+B,X TKL A,Rabu,7,Alat tangan dan alat kerja kelistrikan,Eli Rahmawati,36
+B,X TKL A,Rabu,8,Alat tangan dan alat kerja kelistrikan,Eli Rahmawati,36
+B,X TKL A,Rabu,10,Matematika,Ariyanti,17
+B,X TKL A,Rabu,11,Matematika,Ariyanti,17
+B,X TKL A,Kamis,2,Matematika,,
+B,X TKL A,Kamis,5,Bahasa Inggris,Rosmini,103
+B,X TKL A,Kamis,7,Informatika,Retno Rianto,97
+B,X TKL A,Kamis,9,Perangkat lunak gambar teknik listrik,Eli Rahmawati,36
+B,X TKL A,Kamis,10,Perangkat lunak gambar teknik listrik,Eli Rahmawati,36
+B,X TKL A,Kamis,11,Perangkat lunak gambar teknik listrik,Eli Rahmawati,36
+B,X TKL A,Jumat,4,Keselamatan dan Kesehatan Kerja Lingkungan Hidup (K3LH) dan budaya kerja industri,Dian Yurahly,31
+B,X TKL A,Jumat,5,Keselamatan dan Kesehatan Kerja Lingkungan Hidup (K3LH) dan budaya kerja industri,Dian Yurahly,31
+B,X TKL A,Jumat,7,Bahasa Inggris,Rosmini,103
+B,X TKL B,Senin,1,Sejarah,Jamalia,66
+B,X TKL B,Senin,2,Sejarah,Jamalia,66
+B,X TKL B,Senin,3,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,X TKL B,Senin,4,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,X TKL B,Senin,5,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,X TKL B,Senin,6,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Senin,7,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Senin,8,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Senin,9,Mapel Pilihan,Retno Rianto,97
+B,X TKL B,Senin,10,Mapel Pilihan,Retno Rianto,97
+B,X TKL B,Selasa,2,"Pendidikan Jasmani, Olah raga",,
+B,X TKL B,Selasa,5,Seni Budaya,Reinaldo,101
+B,X TKL B,Selasa,7,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Selasa,8,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Selasa,10,Bahasa Indonesia,Hamsinah,44
+B,X TKL B,Rabu,1,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Rabu,2,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Rabu,3,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Rabu,5,Pendiidikan Pancasila,Muhammad Darno,83
+B,X TKL B,Rabu,7,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,X TKL B,Rabu,8,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,X TKL B,Rabu,10,Bahasa Indonesia,Hamsinah,44
+B,X TKL B,Kamis,1,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Kamis,2,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Kamis,3,Projek Ilmu Pengetahuan Alam dan Sosial,Sitti Ramlah,115
+B,X TKL B,Kamis,5,Mapel Pilihan,Retno Rianto,97
+B,X TKL B,Kamis,6,Seni Budaya,Reinaldo,101
+B,X TKL B,Kamis,7,Seni Budaya,Reinaldo,101
+B,X TKL B,Kamis,8,Bahasa Indonesia,Hamsinah,44
+B,X TKL B,Kamis,10,Pendiidikan Pancasila,Muhammad Darno,83
+B,X TKL B,Jumat,5,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X TKL B,Jumat,8,Sejarah,Jamalia,66
+B,X TKL C,Senin,1,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Bahasa Indonesia",Arlin Marselina Toroilu,19
+B,X TKL C,Senin,2,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Bahasa Indonesia",Arlin Marselina Toroilu,19
+B,X TKL C,Senin,3,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Bahasa Indonesia",Arlin Marselina Toroilu,19
+B,X TKL C,Senin,4,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Bahasa Indonesia",Arlin Marselina Toroilu,19
+B,X TKL C,Senin,5,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Bahasa Indonesia",Arlin Marselina Toroilu,19
+B,X TKL C,Senin,6,"Projek Ilmu Pengetahuan Alam dan Sosial 118 Sumarni, S.Pd Bahasa Indonesia",Arlin Marselina Toroilu,19
+B,X TKL C,Senin,7,Mapel Pilihan,Retno Rianto,97
+B,X TKL C,Senin,8,Mapel Pilihan,Retno Rianto,97
+B,X TKL C,Senin,9,Pendiidikan,Pancasila,
+B,X TKL C,Senin,10,Pendiidikan,Pancasila,
+B,X TKL C,Selasa,1,Seni Budaya,Reinaldo,101
+B,X TKL C,Selasa,2,Seni Budaya,Reinaldo,101
+B,X TKL C,Selasa,3,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X TKL C,Selasa,5,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,X TKL C,Selasa,6,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,X TKL C,Selasa,8,Projek Ilmu Pengetahuan Alam dan Sosial,"Sumarni, S.Pd",118
+B,X TKL C,Selasa,10,Sejarah,Putri Ramadhanti,133
+B,X TKL C,Rabu,1,Pendiidikan Pancasila,Muhammad Darno,83
+B,X TKL C,Rabu,2,Pendiidikan Pancasila,Muhammad Darno,83
+B,X TKL C,Rabu,3,Projek Ilmu Pengetahuan Alam dan Sosial,"Sumarni, S.Pd",118
+B,X TKL C,Rabu,6,Mapel Pilihan,Retno Rianto,97
+B,X TKL C,Rabu,8,Seni Budaya,Reinaldo,101
+B,X TKL C,Rabu,10,Bahasa Indonesia,Arlin Marselina Toroilu,19
+B,X TKL C,Kamis,3,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,X TKL C,Kamis,4,Sejarah,Putri Ramadhanti,133
+B,X TKL C,Kamis,5,Sejarah,Putri Ramadhanti,133
+B,X TKL C,Kamis,7,Bahasa Indonesia,Arlin Marselina Toroilu,19
+B,X TKL C,Kamis,10,Projek Ilmu Pengetahuan Alam dan Sosial,"Sumarni, S.Pd",118
+B,X TKL C,Jumat,6,"Pendidikan Jasmani, Olah raga",,
+B,X TKP A,Senin,2,Dasar- Dasar Program,Alfrida,13
+B,X TKP A,Senin,3,Dasar- Dasar Program,Alfrida,13
+B,X TKP A,Senin,4,Dasar- Dasar Program,Alfrida,13
+B,X TKP A,Senin,5,Dasar- Dasar Program,Alfrida,13
+B,X TKP A,Senin,6,Patandean,,
+B,X TKP A,Senin,8,Matematika,Eka,35
+B,X TKP A,Senin,9,Matematika,Eka,35
+B,X TKP A,Senin,10,Wahyuni,,
+B,X TKP A,Selasa,2,Bahasa Inggris,,
+B,X TKP A,Selasa,4,Matematika,Eka Wahyuni,35
+B,X TKP A,Selasa,5,Matematika,Eka Wahyuni,35
+B,X TKP A,Selasa,7,Matematika,Eka Wahyuni,35
+B,X TKP A,Selasa,10,Informatika,,
+B,X TKP A,Rabu,4,Dasar-Dasar Program Keahlian,,
+B,X TKP A,Rabu,8,Bahasa Inggris,Dewi Sartika Mohammad,28
+B,X TKP A,Rabu,9,Bahasa Inggris,Dewi Sartika Mohammad,28
+B,X TKP A,Rabu,10,Informatika,Retno Rianto,97
+B,X TKP A,Rabu,11,Informatika,Retno Rianto,97
+B,X TKP A,Kamis,3,Dasar-Dasar Program Keahlian,Alfrida Patandean,13
+B,X TKP A,Kamis,7,Bahasa Inggris,Dewi Sartika Mohammad,28
+B,X TKP A,Kamis,10,Informatika,,
+B,X TKP A,Jumat,6,Dasar-Dasar Program Keahlian,,
+B,X TKP B,Senin,1,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X TKP B,Senin,2,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X TKP B,Senin,3,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X TKP B,Senin,4,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,X TKP B,Senin,5,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,X TKP B,Senin,6,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,X TKP B,Senin,7,Mapel Pilihan,Ilman Pradhana,58
+B,X TKP B,Senin,8,Mapel Pilihan,Ilman Pradhana,58
+B,X TKP B,Senin,9,Bahasa Indonesia,Zainab,130
+B,X TKP B,Senin,10,Bahasa Indonesia,Zainab,130
+B,X TKP B,Selasa,1,Pendiidikan Pancasila,Muhammad Darno,83
+B,X TKP B,Selasa,2,Pendiidikan Pancasila,Muhammad Darno,83
+B,X TKP B,Selasa,3,Sejarah,Jamalia,66
+B,X TKP B,Selasa,5,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X TKP B,Selasa,6,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X TKP B,Selasa,7,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X TKP B,Selasa,8,Mapel Pilihan,Ilman Pradhana,58
+B,X TKP B,Selasa,10,Seni Budaya,Reinaldo,101
+B,X TKP B,Selasa,11,Seni Budaya,Reinaldo,101
+B,X TKP B,Rabu,3,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X TKP B,Rabu,5,Bahasa Indonesia,Zainab,130
+B,X TKP B,Rabu,6,Bahasa Indonesia,Zainab,130
+B,X TKP B,Rabu,8,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X TKP B,Rabu,10,Pendiidikan Pancasila,Muhammad Darno,83
+B,X TKP B,Rabu,11,Pendiidikan Pancasila,Muhammad Darno,83
+B,X TKP B,Kamis,1,Sejarah,Jamalia,66
+B,X TKP B,Kamis,2,Sejarah,Jamalia,66
+B,X TKP B,Kamis,3,Projek Ilmu Pengetahuan Alam dan Sosial,Mohamad Juanda Bobihoe,78
+B,X TKP B,Kamis,7,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,X TKP B,Kamis,8,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,X TKP B,Kamis,10,Bahasa Indonesia,Zainab,130
+B,X TKP B,Jumat,5,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X TKP B,Jumat,6,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,X TKP B,Jumat,8,Seni Budaya,Reinaldo,101
+B,X TPM A,Senin,1,Bahasa Inggris,Sawitri Agustrianti,110
+B,X TPM A,Senin,2,Bahasa Inggris,Sawitri Agustrianti,110
+B,X TPM A,Senin,3,Dasar- Dasar Program Keahlian,Budi Darmawan,26
+B,X TPM A,Senin,4,Dasar- Dasar Program Keahlian,Budi Darmawan,26
+B,X TPM A,Senin,5,Matematika,29,
+B,X TPM A,Senin,6,Matematika,29,
+B,X TPM A,Senin,8,Dasar- Dasar Program Keahlian,M. Rifaldy Harsianto,71
+B,X TPM A,Senin,9,Dasar- Dasar Program Keahlian,M. Rifaldy Harsianto,71
+B,X TPM A,Senin,10,Dasar- Dasar Program Keahlian,M. Rifaldy Harsianto,71
+B,X TPM A,Selasa,2,Dasar-Dasar Program,M. Rifaldy Harsianto,71
+B,X TPM A,Selasa,4,Matematika,Dewiningsih,29
+B,X TPM A,Selasa,7,Program Keahlian,Thithis Yuliarisandi,125
+B,X TPM A,Selasa,8,Program Keahlian,Thithis Yuliarisandi,125
+B,X TPM A,Selasa,10,Informatika,Novalia Palinggi,88
+B,X TPM A,Rabu,2,KeahlianDasar-Dasar Program Keahlian,Thithis Yuliarisandi,125
+B,X TPM A,Rabu,4,Bahasa Inggris,Sawitri Agustrianti,110
+B,X TPM A,Rabu,8,Dasar-Dasar Program Keahlian,,
+B,X TPM A,Rabu,10,Matematika,Dewiningsih,29
+B,X TPM A,Kamis,2,Dasar-Dasar Program Keahlian,Budi Darmawan,26
+B,X TPM A,Kamis,4,Dasar-Dasar Program Keahlian,Thithis Yuliarisandi,125
+B,X TPM A,Kamis,7,Informatika,Novalia Palinggi,88
+B,X TPM A,Kamis,10,Dasar-Dasar Program Keahlian,M. Rifaldy Harsianto,71
+B,X TPM A,Jumat,4,Informatika,Novalia Palinggi,88
+B,X TPM A,Jumat,7,Bahasa Inggris,Sawitri Agustrianti,110
+B,X TPM B,Senin,1,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Putri Ramadhanti,133
+B,X TPM B,Senin,2,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Putri Ramadhanti,133
+B,X TPM B,Senin,3,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Putri Ramadhanti,133
+B,X TPM B,Senin,4,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Putri Ramadhanti,133
+B,X TPM B,Senin,5,"Pendidikan Jasmani, Olah raga dan Kesehatan Sejarah",Putri Ramadhanti,133
+B,X TPM B,Senin,6,Seni Budaya,Reinaldo,101
+B,X TPM B,Senin,7,Seni Budaya,Reinaldo,101
+B,X TPM B,Senin,8,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TPM B,Senin,9,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TPM B,Senin,10,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TPM B,Selasa,2,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,X TPM B,Selasa,3,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,X TPM B,Selasa,7,Pendidikan Agama dan Budi Pekerti,,
+B,X TPM B,Selasa,10,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TPM B,Rabu,1,Pendiidikan Pancasila,Hatifa,47
+B,X TPM B,Rabu,2,Pendiidikan Pancasila,Hatifa,47
+B,X TPM B,Rabu,3,Pendidikan Agama dan Budi Pekerti,Ahmad Syafi'i,8
+B,X TPM B,Rabu,4,Pendidikan Agama dan Budi Pekerti,Ahmad Syafi'i,8
+B,X TPM B,Rabu,6,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TPM B,Rabu,7,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TPM B,Rabu,8,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TPM B,Rabu,10,Bahasa Indonesia,Bayu Risma Wanto,25
+B,X TPM B,Kamis,1,Bahasa Indonesia,Bayu Risma Wanto,25
+B,X TPM B,Kamis,2,Bahasa Indonesia,Bayu Risma Wanto,25
+B,X TPM B,Kamis,3,Seni Budaya,Reinaldo,101
+B,X TPM B,Kamis,5,Pendiidikan Pancasila,Hatifa,47
+B,X TPM B,Kamis,6,Pendiidikan Pancasila,Hatifa,47
+B,X TPM B,Kamis,7,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,X TPM B,Kamis,8,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,X TPM B,Kamis,10,Projek Ilmu Pengetahuan Alam dan Sosial,Ikrar Lamole,57
+B,X TPM B,Jumat,5,Bahasa Indonesia,Bayu Risma Wanto,25
+B,X TPM B,Jumat,7,Sejarah,Putri Ramadhanti,133
+B,X TPM B,Jumat,8,Sejarah,Putri Ramadhanti,133
+B,XI DPIB A,Senin,2,Mapel Pilihan,Mahsun Wahid,72
+B,XI DPIB A,Senin,3,Mapel Pilihan,Mahsun Wahid,72
+B,XI DPIB A,Senin,4,Mapel Pilihan,Mahsun Wahid,72
+B,XI DPIB A,Senin,5,Matematika,Leonard,70
+B,XI DPIB A,Senin,6,Matematika,Leonard,70
+B,XI DPIB A,Senin,7,Randanan Bahasa Indonesia,Jumran,67
+B,XI DPIB A,Senin,8,Randanan Bahasa Indonesia,Jumran,67
+B,XI DPIB A,Senin,9,Randanan Bahasa Indonesia,Jumran,67
+B,XI DPIB A,Senin,10,Randanan Bahasa Indonesia,Jumran,67
+B,XI DPIB A,Selasa,1,Sejarah,Putri Ramadhanti,133
+B,XI DPIB A,Selasa,2,Sejarah,Putri Ramadhanti,133
+B,XI DPIB A,Selasa,3,Pendidikan Agama dan Budi Pekerti,Idris,56
+B,XI DPIB A,Selasa,4,Pendidikan Agama dan Budi Pekerti,Idris,56
+B,XI DPIB A,Selasa,5,Pendidikan Agama dan Budi Pekerti,Idris,56
+B,XI DPIB A,Selasa,6,Pendiidikan Pancasila,Hatifa,47
+B,XI DPIB A,Selasa,7,Pendiidikan Pancasila,Hatifa,47
+B,XI DPIB A,Selasa,8,Mapel Pilihan,Mahsun Wahid,72
+B,XI DPIB A,Selasa,9,Mapel Pilihan,Mahsun Wahid,72
+B,XI DPIB A,Selasa,10,Bahasa Inggris,Nursyamsi,92
+B,XI DPIB A,Selasa,11,Bahasa Inggris,Nursyamsi,92
+B,XI DPIB A,Rabu,2,Mapel Pilihan,,
+B,XI DPIB A,Rabu,4,Pendiidikan Pancasila,Hatifa,47
+B,XI DPIB A,Rabu,5,Pendiidikan Pancasila,Hatifa,47
+B,XI DPIB A,Rabu,7,Bahasa Indonesia,Jumran,67
+B,XI DPIB A,Rabu,10,Bahasa Inggris,,
+B,XI DPIB A,Kamis,2,Pendidikan Agama dan Budi Pekerti,,
+B,XI DPIB A,Kamis,4,Matematika,Leonard Randanan,70
+B,XI DPIB A,Kamis,5,Matematika,Leonard Randanan,70
+B,XI DPIB A,Kamis,8,Bahasa Inggris,,
+B,XI DPIB A,Kamis,10,Sejarah,Putri Ramadhanti,133
+B,XI DPIB A,Kamis,11,Sejarah,Putri Ramadhanti,133
+B,XI DPIB A,Jumat,4,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI DPIB A,Jumat,5,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI DPIB A,Jumat,6,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI DPIB A,Jumat,7,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI DPIB B,Senin,3,Desain Pemodelan Bangunan,Suryadi Bennu,121
+B,XI DPIB B,Senin,4,Desain Pemodelan Bangunan,Suryadi Bennu,121
+B,XI DPIB B,Senin,5,Desain Pemodelan Bangunan,Suryadi Bennu,121
+B,XI DPIB B,Senin,7,"Kreativitas, Inovasi, dan Kewirausahaan",Agung Dwi Putra,5
+B,XI DPIB B,Senin,8,"Kreativitas, Inovasi, dan Kewirausahaan",Agung Dwi Putra,5
+B,XI DPIB B,Selasa,1,"Kreativitas, Inovasi, dan Kewirausahaan",Agung Dwi Putra,5
+B,XI DPIB B,Selasa,2,"Kreativitas, Inovasi, dan Kewirausahaan",Agung Dwi Putra,5
+B,XI DPIB B,Selasa,3,"Kreativitas, Inovasi, dan Kewirausahaan",Agung Dwi Putra,5
+B,XI DPIB B,Selasa,5,Kewirausahaan,,
+B,XI DPIB B,Selasa,9,Desain Pemodelan Bangunan,Suryadi Bennu,121
+B,XI DPIB B,Selasa,10,Desain Pemodelan Bangunan,Suryadi Bennu,121
+B,XI DPIB B,Rabu,3,Gambar Konstruksi Utilitas Gedung Dan Sistem Plumbing,Suryadi Bennu,121
+B,XI DPIB B,Rabu,4,Gambar Konstruksi Utilitas Gedung Dan Sistem Plumbing,Suryadi Bennu,121
+B,XI DPIB B,Rabu,5,Gambar Konstruksi Utilitas Gedung Dan Sistem Plumbing,Suryadi Bennu,121
+B,XI DPIB B,Rabu,9,Desain Pemodelan Jalan Dan Jembatan,Mahsun Wahid,72
+B,XI DPIB B,Rabu,10,Desain Pemodelan Jalan Dan Jembatan,Mahsun Wahid,72
+B,XI DPIB B,Kamis,3,Jembatan,Mahsun Wahid,72
+B,XI DPIB B,Kamis,4,Jembatan,Mahsun Wahid,72
+B,XI DPIB B,Jumat,4,Gambar Konstruksi Utilitas Gedung Dan Sistem Plumbing,Suryadi Bennu,121
+B,XI DPIB B,Jumat,5,Gambar Konstruksi Utilitas Gedung Dan Sistem Plumbing,Suryadi Bennu,121
+B,XI DPIB B,Jumat,6,"Kreativitas, Inovasi, dan Kewirausahaan",Agung Dwi Putra,5
+B,XI DPIB B,Jumat,7,"Kreativitas, Inovasi, dan Kewirausahaan",Agung Dwi Putra,5
+B,XI GEO,Senin,2,Survei Terestris,Andia,14
+B,XI GEO,Senin,3,Survei Terestris,Andia,14
+B,XI GEO,Senin,4,Survei Terestris,Andia,14
+B,XI GEO,Senin,5,"Rabiatul Aldawia Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Senin,6,"Rabiatul Aldawia Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Senin,7,"Rabiatul Aldawia Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Senin,8,"Rabiatul Aldawia Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Senin,9,Sistem Informasi Geografis,Andia Rabiatul Aldawia,14
+B,XI GEO,Senin,10,Sistem Informasi Geografis,Andia Rabiatul Aldawia,14
+B,XI GEO,Selasa,1,Penginderaan jauh,Andia Rabiatul Aldawia,14
+B,XI GEO,Selasa,2,Penginderaan jauh,Andia Rabiatul Aldawia,14
+B,XI GEO,Selasa,3,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Selasa,4,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Selasa,5,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Selasa,10,Perangkat lunak gambar Peta Digital,Eka Puspa Rahmatia,34
+B,XI GEO,Rabu,3,Survei Terestris,Andia Rabiatul Aldawia,14
+B,XI GEO,Rabu,6,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Rabu,7,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Rabu,10,Perangkat lunak gambar Peta Digital,Eka Puspa Rahmatia,34
+B,XI GEO,Kamis,3,Survei Terestris,Andia Rabiatul Aldawia,14
+B,XI GEO,Kamis,4,Survei Terestris,Andia Rabiatul Aldawia,14
+B,XI GEO,Kamis,7,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Kamis,8,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI GEO,Kamis,10,Peta Dasar,Andia Rabiatul Aldawia,14
+B,XI GEO,Jumat,4,Sistem Informasi Geografis,Andia Rabiatul Aldawia,14
+B,XI GEO,Jumat,5,Sistem Informasi Geografis,Andia Rabiatul Aldawia,14
+B,XI LAS,Senin,2,"Kreativitas, Inovasi, dan Kewirausahaan",M. Rifaldy Harsianto,71
+B,XI LAS,Senin,3,"Kreativitas, Inovasi, dan Kewirausahaan",M. Rifaldy Harsianto,71
+B,XI LAS,Senin,4,"Kreativitas, Inovasi, dan Kewirausahaan",M. Rifaldy Harsianto,71
+B,XI LAS,Senin,5,"Kreativitas, Inovasi, dan Kewirausahaan",M. Rifaldy Harsianto,71
+B,XI LAS,Senin,6,"Kreativitas, Inovasi, dan Kewirausahaan",M. Rifaldy Harsianto,71
+B,XI LAS,Senin,8,Pengelasan SMAW dasar,Moh. Agil,77
+B,XI LAS,Senin,9,Pengelasan SMAW dasar,Moh. Agil,77
+B,XI LAS,Selasa,2,Pengelasan OAW,,
+B,XI LAS,Selasa,6,Gambar teknik las,M. Rifaldy Harsianto,71
+B,XI LAS,Selasa,10,"Kreativitas, Inovasi, dan Kewirausahaan",M. Rifaldy Harsianto,71
+B,XI LAS,Rabu,5,Pengelasan OAW,Moh. Agil,77
+B,XI LAS,Rabu,6,Pengelasan OAW,Moh. Agil,77
+B,XI LAS,Rabu,10,"Kreativitas, Inovasi, dan Kewirausahaan",M. Rifaldy Harsianto,71
+B,XI LAS,Rabu,11,"Kreativitas, Inovasi, dan Kewirausahaan",M. Rifaldy Harsianto,71
+B,XI LAS,Kamis,3,Pengelasan SMAW dasar,Moh. Agil,77
+B,XI LAS,Kamis,4,Pengelasan SMAW dasar,Moh. Agil,77
+B,XI LAS,Kamis,6,Gambar teknik las,M. Rifaldy Harsianto,71
+B,XI LAS,Kamis,9,Pengelasan GMAW,Moh. Agil,77
+B,XI LAS,Kamis,10,Pengelasan GMAW,Moh. Agil,77
+B,XI LAS,Jumat,6,Pengelasan GMAW,Moh. Agil,77
+B,XI RPL A,Senin,2,Mapel Pilihan,Muh. Nur Rahmat,132
+B,XI RPL A,Senin,3,Mapel Pilihan,Muh. Nur Rahmat,132
+B,XI RPL A,Senin,4,Bahasa Inggris,Ni Made Dewi Artati,87
+B,XI RPL A,Senin,5,Bahasa Inggris,Ni Made Dewi Artati,87
+B,XI RPL A,Senin,6,Pendiidikan Pancasila 22 Bambang Matematika,Elsa,37
+B,XI RPL A,Senin,7,Pendiidikan Pancasila 22 Bambang Matematika,Elsa,37
+B,XI RPL A,Senin,8,Pendiidikan Pancasila 22 Bambang Matematika,Elsa,37
+B,XI RPL A,Senin,9,Pendiidikan Pancasila 22 Bambang Matematika,Elsa,37
+B,XI RPL A,Senin,10,Fiolin,Tunggai,
+B,XI RPL A,Selasa,1,Sejarah,Suraiya,120
+B,XI RPL A,Selasa,2,Sejarah,Suraiya,120
+B,XI RPL A,Selasa,3,Bahasa Inggris,Ni Made Dewi Artati,87
+B,XI RPL A,Selasa,4,Bahasa Inggris,Ni Made Dewi Artati,87
+B,XI RPL A,Selasa,7,Bahasa Indonesia,Muhamad Hasan M. Halidi,82
+B,XI RPL A,Selasa,10,Mapel Pilihan,Muh. Nur Rahmat,132
+B,XI RPL A,Rabu,3,Mapel Pilihan,Muh. Nur Rahmat,132
+B,XI RPL A,Rabu,5,Bahasa Inggris,Ni Made Dewi Artati,87
+B,XI RPL A,Rabu,7,Pendiidikan Pancasila,Bambang,22
+B,XI RPL A,Rabu,10,Pekerti,Asrina,21
+B,XI RPL A,Rabu,11,Pekerti,Asrina,21
+B,XI RPL A,Kamis,3,Bahasa Indonesia,Muhamad Hasan M. Halidi,82
+B,XI RPL A,Kamis,5,Sejarah,Suraiya,120
+B,XI RPL A,Kamis,7,Matematika,Elsa Fiolin Tunggai,37
+B,XI RPL A,Kamis,10,Pekerti,Asrina,21
+B,XI RPL A,Kamis,11,Pekerti,Asrina,21
+B,XI RPL A,Jumat,5,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,XI RPL A,Jumat,7,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,XI RPL B,Senin,2,Pemrograman Perangkat Bergerak,Ilman,58
+B,XI RPL B,Senin,3,Pemrograman Perangkat Bergerak,Ilman,58
+B,XI RPL B,Senin,4,Pemrograman Perangkat Bergerak,Ilman,58
+B,XI RPL B,Senin,5,Pemrograman Perangkat Bergerak,Ilman,58
+B,XI RPL B,Senin,6,Pradhana,,
+B,XI RPL B,Senin,8,Pemrograman Web,Muh. Nur,132
+B,XI RPL B,Senin,9,Pemrograman Web,Muh. Nur,132
+B,XI RPL B,Selasa,2,"Pemrograman Berbasis Teks,",Ilman Pradhana,58
+B,XI RPL B,Selasa,3,"Pemrograman Berbasis Teks,",Ilman Pradhana,58
+B,XI RPL B,Selasa,7,Basis Data,Ratna Ambar Widuri,96
+B,XI RPL B,Selasa,8,Basis Data,Ratna Ambar Widuri,96
+B,XI RPL B,Selasa,10,"Kreativitas, Inovasi, dan Kewirausahaan",Rugaiyah R. Nampu,104
+B,XI RPL B,Selasa,11,"Kreativitas, Inovasi, dan Kewirausahaan",Rugaiyah R. Nampu,104
+B,XI RPL B,Rabu,2,Pemrograman Perangkat Bergerak,Ilman Pradhana,58
+B,XI RPL B,Rabu,3,Pemrograman Perangkat Bergerak,Ilman Pradhana,58
+B,XI RPL B,Rabu,4,Pemrograman Perangkat Bergerak,Ilman Pradhana,58
+B,XI RPL B,Rabu,8,"Kreativitas, Inovasi, dan Kewirausahaan",Rugaiyah R. Nampu,104
+B,XI RPL B,Rabu,9,"Kreativitas, Inovasi, dan Kewirausahaan",Rugaiyah R. Nampu,104
+B,XI RPL B,Kamis,3,Pemrograman Web,Muh. Nur Rahmat,132
+B,XI RPL B,Kamis,4,Pemrograman Web,Muh. Nur Rahmat,132
+B,XI RPL B,Kamis,7,"Kreativitas, Inovasi, dan Kewirausahaan",Rugaiyah R. Nampu,104
+B,XI RPL B,Kamis,8,"Kreativitas, Inovasi, dan Kewirausahaan",Rugaiyah R. Nampu,104
+B,XI RPL B,Kamis,10,Basis Data,Ratna Ambar Widuri,96
+B,XI RPL B,Kamis,11,Basis Data,Ratna Ambar Widuri,96
+B,XI RPL B,Jumat,5,"Pemrograman Berbasis Teks, Grafis, dan Multimedia",Ilman Pradhana,58
+B,XI RPL B,Jumat,6,"Pemrograman Berbasis Teks, Grafis, dan Multimedia",Ilman Pradhana,58
+B,XI TAV A,Senin,3,Matematika,Jali,65
+B,XI TAV A,Senin,5,Bahasa Inggris,Gusti Ayu Putu Normayanti,90
+B,XI TAV A,Senin,6,Bahasa Inggris,Gusti Ayu Putu Normayanti,90
+B,XI TAV A,Senin,7,Pendiidikan Pancasila,Milka Sannu,76
+B,XI TAV A,Senin,8,Pendiidikan Pancasila,Milka Sannu,76
+B,XI TAV A,Senin,9,Mapel Pilihan,Gede Rendiyana,43
+B,XI TAV A,Senin,10,Mapel Pilihan,Gede Rendiyana,43
+B,XI TAV A,Selasa,2,Bahasa Indonesia,,
+B,XI TAV A,Selasa,4,Pendiidikan Pancasila,Milka Sannu,76
+B,XI TAV A,Selasa,5,Pendiidikan Pancasila,Milka Sannu,76
+B,XI TAV A,Selasa,6,Pendidikan Agama dan Budi,Pekerti,
+B,XI TAV A,Selasa,7,Pendidikan Agama dan Budi,Pekerti,
+B,XI TAV A,Selasa,10,Bahasa Inggris,Gusti Ayu Putu Normayanti,90
+B,XI TAV A,Rabu,1,Sejarah,Putri Ramadhanti,133
+B,XI TAV A,Rabu,2,Sejarah,Putri Ramadhanti,133
+B,XI TAV A,Rabu,3,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,XI TAV A,Rabu,4,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,XI TAV A,Rabu,5,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,XI TAV A,Rabu,6,Mapel Pilihan,Gede Rendiyana,43
+B,XI TAV A,Rabu,7,Mapel Pilihan,Gede Rendiyana,43
+B,XI TAV A,Rabu,10,Bahasa Inggris,Gusti Ayu Putu Normayanti,90
+B,XI TAV A,Kamis,1,Sejarah,Putri Ramadhanti,133
+B,XI TAV A,Kamis,2,Sejarah,Putri Ramadhanti,133
+B,XI TAV A,Kamis,4,Mapel Pilihan,,
+B,XI TAV A,Kamis,6,Matematika,Jali,65
+B,XI TAV A,Kamis,7,Matematika,Jali,65
+B,XI TAV A,Kamis,10,Bahasa Indonesia,Muhamad Hasan M. Halidi,82
+B,XI TAV A,Jumat,4,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,XI TAV A,Jumat,5,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,XI TAV A,Jumat,6,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,XI TAV B,Senin,2,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Senin,3,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Senin,4,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Senin,6,Penerapan Rangkaian,Ahmad,7
+B,XI TAV B,Senin,7,Penerapan Rangkaian,Ahmad,7
+B,XI TAV B,Senin,8,Penerapan Rangkaian,Ahmad,7
+B,XI TAV B,Selasa,2,Perencanaan dan Instalasi Sistem Audio Video,Rudi Hartono,106
+B,XI TAV B,Selasa,3,Perencanaan dan Instalasi Sistem Audio Video,Rudi Hartono,106
+B,XI TAV B,Selasa,4,Perencanaan dan Instalasi Sistem Audio Video,Rudi Hartono,106
+B,XI TAV B,Selasa,5,Perawatan dan perbaikan peralatan elektronika audio video,Rudi Hartono,106
+B,XI TAV B,Selasa,6,Perawatan dan perbaikan peralatan elektronika audio video,Rudi Hartono,106
+B,XI TAV B,Selasa,7,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Selasa,8,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Selasa,9,Penerapan Sistem Radio dan Televisi,Rudi Hartono,106
+B,XI TAV B,Selasa,10,Penerapan Sistem Radio dan Televisi,Rudi Hartono,106
+B,XI TAV B,Selasa,11,Penerapan Sistem Radio dan Televisi,Rudi Hartono,106
+B,XI TAV B,Rabu,1,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Rabu,2,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Rabu,3,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Rabu,5,Perawatan dan perbaikan peralatan elektronika audio video,Rudi Hartono,106
+B,XI TAV B,Rabu,6,Perawatan dan perbaikan peralatan elektronika audio video,Rudi Hartono,106
+B,XI TAV B,Rabu,8,Penerapan Sistem Radio dan Televisi,Rudi Hartono,106
+B,XI TAV B,Rabu,9,Penerapan Sistem Radio dan Televisi,Rudi Hartono,106
+B,XI TAV B,Rabu,10,Pemrograman dan aplikasi mikrokontroler,Rudi Hartono,106
+B,XI TAV B,Rabu,11,Pemrograman dan aplikasi mikrokontroler,Rudi Hartono,106
+B,XI TAV B,Kamis,4,Penerapan Rangkaian Elektronika,Ahmad,7
+B,XI TAV B,Kamis,5,Penerapan Rangkaian Elektronika,Ahmad,7
+B,XI TAV B,Kamis,7,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Kamis,8,"Kreativitas, Inovasi, dan Kewirausahaan",Rapnawati,95
+B,XI TAV B,Kamis,9,Penerapan Sistem Radio dan Televisi,Rudi Hartono,106
+B,XI TAV B,Kamis,10,Penerapan Sistem Radio dan Televisi,Rudi Hartono,106
+B,XI TAV B,Kamis,11,Penerapan Sistem Radio dan Televisi,Rudi Hartono,106
+B,XI TAV B,Jumat,5,Perencanaan dan Instalasi Sistem Audio Video,Rudi Hartono,106
+B,XI TAV B,Jumat,6,Perencanaan dan Instalasi Sistem Audio Video,Rudi Hartono,106
+B,XI TEI A,Senin,2,Bahasa Inggris,Deysi Chrystiyanti,30
+B,XI TEI A,Senin,3,Bahasa Inggris,Deysi Chrystiyanti,30
+B,XI TEI A,Senin,4,Bahasa Inggris,Deysi Chrystiyanti,30
+B,XI TEI A,Senin,5,Bahasa Indonesia,Fidyana,42
+B,XI TEI A,Senin,6,Bahasa Indonesia,Fidyana,42
+B,XI TEI A,Senin,7,Bahasa Indonesia,Fidyana,42
+B,XI TEI A,Senin,8,Mapel,Pilihan,
+B,XI TEI A,Senin,9,Mapel,Pilihan,
+B,XI TEI A,Selasa,1,Pendiidikan Pancasila,Milka Sannu,76
+B,XI TEI A,Selasa,2,Pendiidikan Pancasila,Milka Sannu,76
+B,XI TEI A,Selasa,3,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,XI TEI A,Selasa,4,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,XI TEI A,Selasa,5,Pendidikan Agama dan Budi Pekerti,Imam Kurniawan,59
+B,XI TEI A,Selasa,7,Bahasa Indonesia,Fidyana,42
+B,XI TEI A,Rabu,2,Matematika,,
+B,XI TEI A,Rabu,4,Sejarah,Putri Ramadhanti,133
+B,XI TEI A,Rabu,5,Sejarah,Putri Ramadhanti,133
+B,XI TEI A,Rabu,7,Bahasa Inggris,Deysi Chrystiyanti,30
+B,XI TEI A,Kamis,1,Mapel Pilihan,Mohammad Sahrir,79
+B,XI TEI A,Kamis,2,Mapel Pilihan,Mohammad Sahrir,79
+B,XI TEI A,Kamis,3,Pendiidikan Pancasila,Milka Sannu,76
+B,XI TEI A,Kamis,4,Pendiidikan Pancasila,Milka Sannu,76
+B,XI TEI A,Kamis,6,Pendidikan Agama dan Budi Pekerti,,
+B,XI TEI A,Kamis,8,Sejarah,Putri Ramadhanti,133
+B,XI TEI A,Kamis,9,Sejarah,Putri Ramadhanti,133
+B,XI TEI A,Jumat,4,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TEI A,Jumat,5,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TEI A,Jumat,6,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TEI A,Jumat,7,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TEI B,Senin,2,Penerapan Rangkaian Elektronika,Retno Widya Kumala,98
+B,XI TEI B,Senin,3,Penerapan Rangkaian Elektronika,Retno Widya Kumala,98
+B,XI TEI B,Senin,4,Pemrograman Sistem Embedded,Retno Widya Kumala,98
+B,XI TEI B,Senin,5,Pemrograman Sistem Embedded,Retno Widya Kumala,98
+B,XI TEI B,Senin,6,"Kreativitas, Inovasi, dan Kewirausahaan",Sri Bertiani,116
+B,XI TEI B,Senin,7,"Kreativitas, Inovasi, dan Kewirausahaan",Sri Bertiani,116
+B,XI TEI B,Senin,8,"Kreativitas, Inovasi, dan Kewirausahaan",Sri Bertiani,116
+B,XI TEI B,Senin,9,"Kreativitas, Inovasi, dan Kewirausahaan",Sri Bertiani,116
+B,XI TEI B,Senin,10,"Kreativitas, Inovasi, dan Kewirausahaan",Sri Bertiani,116
+B,XI TEI B,Selasa,5,Sistem Kendali Elektronik,Mohammad Sahrir,79
+B,XI TEI B,Selasa,10,Penerapan Rangkaian Elektronika,Retno Widya Kumala,98
+B,XI TEI B,Rabu,5,Pemrograman Sistem Embedded,Retno Widya Kumala,98
+B,XI TEI B,Rabu,10,"Kreativitas, Inovasi, dan Kewirausahaan",Sri Bertiani,116
+B,XI TEI B,Kamis,2,Penerapan Rangkaian Elektronika,Retno Widya Kumala,98
+B,XI TEI B,Kamis,3,Penerapan Rangkaian Elektronika,Retno Widya Kumala,98
+B,XI TEI B,Kamis,7,Sistem Kendali Elektronik,Mohammad Sahrir,79
+B,XI TEI B,Kamis,8,Sistem Kendali Elektronik,Mohammad Sahrir,79
+B,XI TEI B,Jumat,5,Pemrograman Sistem Embedded,Retno Widya Kumala,98
+B,XI TEI B,Jumat,6,"Kreativitas, Inovasi, dan Kewirausahaan",Sri Bertiani,116
+B,XI TEI B,Jumat,7,"Kreativitas, Inovasi, dan Kewirausahaan",Sri Bertiani,116
+B,XI TKJ A,Senin,2,Bahasa Indonesia,Israwati,63
+B,XI TKJ A,Senin,3,Bahasa Indonesia,Israwati,63
+B,XI TKJ A,Senin,4,Bahasa Indonesia,Israwati,63
+B,XI TKJ A,Senin,5,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,XI TKJ A,Senin,6,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,XI TKJ A,Senin,7,Sejarah,Putri Ramadhanti,133
+B,XI TKJ A,Senin,8,Sejarah,Putri Ramadhanti,133
+B,XI TKJ A,Senin,9,Bahasa Inggris,Rita Sriyani Nastrun,100
+B,XI TKJ A,Senin,10,Bahasa Inggris,Rita Sriyani Nastrun,100
+B,XI TKJ A,Selasa,1,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKJ A,Selasa,2,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKJ A,Selasa,3,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKJ A,Selasa,4,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKJ A,Selasa,5,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKJ A,Selasa,6,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,XI TKJ A,Selasa,7,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,XI TKJ A,Selasa,10,Matematika,Eka Wahyuni,35
+B,XI TKJ A,Rabu,1,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKJ A,Rabu,2,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKJ A,Rabu,3,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKJ A,Rabu,6,Mapel Pilihan,Dwi Putra Kurniawan,33
+B,XI TKJ A,Rabu,8,Bahasa Inggris,Rita Sriyani Nastrun,100
+B,XI TKJ A,Rabu,10,Sejarah,Putri Ramadhanti,133
+B,XI TKJ A,Kamis,2,Bahasa Indonesia,,
+B,XI TKJ A,Kamis,4,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKJ A,Kamis,5,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKJ A,Kamis,6,Bahasa Inggris,Rita Sriyani Nastrun,100
+B,XI TKJ A,Kamis,7,Bahasa Inggris,Rita Sriyani Nastrun,100
+B,XI TKJ A,Kamis,10,Matematika,Eka Wahyuni,35
+B,XI TKJ A,Jumat,4,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TKJ A,Jumat,5,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TKJ A,Jumat,6,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TKJ B,Senin,2,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TKJ B,Senin,3,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TKJ B,Senin,4,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TKJ B,Senin,6,Jaringan,Herman,50
+B,XI TKJ B,Senin,7,Jaringan,Herman,50
+B,XI TKJ B,Senin,8,Perencanaan dan Pengalamatan Jaringan,Wiwik Supriyatin,127
+B,XI TKJ B,Senin,9,Perencanaan dan Pengalamatan Jaringan,Wiwik Supriyatin,127
+B,XI TKJ B,Senin,10,Perencanaan dan Pengalamatan Jaringan,Wiwik Supriyatin,127
+B,XI TKJ B,Selasa,4,Pemasangan dan Konfigurasi Perangkat Jaringan,Herman,50
+B,XI TKJ B,Selasa,5,Pemasangan dan Konfigurasi Perangkat Jaringan,Herman,50
+B,XI TKJ B,Selasa,10,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TKJ B,Rabu,2,Teknologi Jaringan Kabel dan Nirkabel,Wiwik Supriyatin,127
+B,XI TKJ B,Rabu,3,Teknologi Jaringan Kabel dan Nirkabel,Wiwik Supriyatin,127
+B,XI TKJ B,Rabu,4,Teknologi Jaringan Kabel dan Nirkabel,Wiwik Supriyatin,127
+B,XI TKJ B,Rabu,6,Pengalamatan Jaringan,Wiwik Supriyatin,127
+B,XI TKJ B,Rabu,7,Pengalamatan Jaringan,Wiwik Supriyatin,127
+B,XI TKJ B,Rabu,10,Administrasi Sistem Jaringan,Wiwik Supriyatin,127
+B,XI TKJ B,Kamis,2,Keamanan Jaringan,,
+B,XI TKJ B,Kamis,5,Teknologi Jaringan Kabel dan,Wiwik Supriyatin,127
+B,XI TKJ B,Kamis,6,Teknologi Jaringan Kabel dan,Wiwik Supriyatin,127
+B,XI TKJ B,Kamis,10,Administrasi Sistem Jaringan,Wiwik Supriyatin,127
+B,XI TKJ B,Jumat,4,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TKJ B,Jumat,5,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TKJ B,Jumat,6,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TKJ B,Jumat,7,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TKL A,Senin,2,Bahasa Indonesia 44 Hamsinah Bahasa Inggris 103 Rosmini Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Senin,3,Bahasa Indonesia 44 Hamsinah Bahasa Inggris 103 Rosmini Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Senin,4,Bahasa Indonesia 44 Hamsinah Bahasa Inggris 103 Rosmini Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Senin,5,Bahasa Indonesia 44 Hamsinah Bahasa Inggris 103 Rosmini Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Senin,6,Bahasa Indonesia 44 Hamsinah Bahasa Inggris 103 Rosmini Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Senin,7,Bahasa Indonesia 44 Hamsinah Bahasa Inggris 103 Rosmini Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Senin,8,Bahasa Indonesia 44 Hamsinah Bahasa Inggris 103 Rosmini Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Senin,9,Bahasa Indonesia 44 Hamsinah Bahasa Inggris 103 Rosmini Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Senin,10,Bahasa Indonesia 44 Hamsinah Bahasa Inggris 103 Rosmini Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Selasa,1,Bahasa Inggris,Rosmini,103
+B,XI TKL A,Selasa,2,Bahasa Inggris,Rosmini,103
+B,XI TKL A,Selasa,3,Pendiidikan Pancasila,Muhammad Darno,83
+B,XI TKL A,Selasa,4,Pendiidikan Pancasila,Muhammad Darno,83
+B,XI TKL A,Selasa,5,Sejarah,Putri Ramadhanti,133
+B,XI TKL A,Selasa,6,Sejarah,Putri Ramadhanti,133
+B,XI TKL A,Selasa,7,Mapel Pilihan,Eli Rahmawati,36
+B,XI TKL A,Selasa,8,Mapel Pilihan,Eli Rahmawati,36
+B,XI TKL A,Selasa,10,Matematika,Ariyanti,17
+B,XI TKL A,Rabu,2,Mapel Pilihan,,
+B,XI TKL A,Rabu,4,Mapel Pilihan,Eli Rahmawati,36
+B,XI TKL A,Rabu,5,Mapel Pilihan,Eli Rahmawati,36
+B,XI TKL A,Rabu,7,Sejarah,Putri Ramadhanti,133
+B,XI TKL A,Rabu,8,Sejarah,Putri Ramadhanti,133
+B,XI TKL A,Rabu,10,Pendidikan Agama dan Budi Pekerti,Siti Rofika,114
+B,XI TKL A,Kamis,2,Bahasa Inggris,,
+B,XI TKL A,Kamis,4,Bahasa Indonesia,Hamsinah,44
+B,XI TKL A,Kamis,5,Bahasa Indonesia,Hamsinah,44
+B,XI TKL A,Kamis,7,Pendiidikan Pancasila,Muhammad Darno,83
+B,XI TKL A,Kamis,8,Pendiidikan Pancasila,Muhammad Darno,83
+B,XI TKL A,Kamis,10,Matematika,Ariyanti,17
+B,XI TKL A,Jumat,4,"Pendidikan Jasmani, Olah raga dan Kesehatan",,
+B,XI TKL A,Jumat,7,"Pendidikan Jasmani, Olah raga dan Kesehatan",,
+B,XI TKL B,Senin,2,Standar dan,Peraturan,
+B,XI TKL B,Senin,3,Standar dan,Peraturan,
+B,XI TKL B,Senin,4,Standar dan,Peraturan,
+B,XI TKL B,Senin,7,Listrik,Sarini,109
+B,XI TKL B,Senin,9,"Kreativitas, Inovasi, dan Kewirausahaan",Eli Rahmawati,36
+B,XI TKL B,Senin,10,"Kreativitas, Inovasi, dan Kewirausahaan",Eli Rahmawati,36
+B,XI TKL B,Selasa,2,Instalasi Tenaga Listrik,Sarini Djahimuddin,109
+B,XI TKL B,Selasa,5,Instalasi Motor Listrik,Sarini Djahimuddin,109
+B,XI TKL B,Selasa,7,Perbaikan Peralatan Listrik,Dania Maisarah Usbir Nasir,27
+B,XI TKL B,Selasa,10,"Kreativitas, Inovasi, dan Kewirausahaan",Eli Rahmawati,36
+B,XI TKL B,Rabu,2,Instalasi Penerangan Listrik,Dania Maisarah Usbir,27
+B,XI TKL B,Rabu,3,Instalasi Penerangan Listrik,Dania Maisarah Usbir,27
+B,XI TKL B,Rabu,7,Sistem Kendali,Sherly Purnama,112
+B,XI TKL B,Rabu,10,Perbaikan Peralatan Listrik,Dania Maisarah Usbir Nasir,27
+B,XI TKL B,Kamis,1,"Perawatan dan Perbaikan Instalasi Penerangan, Tenaga dan Motor Listrik",Eli Rahmawati,36
+B,XI TKL B,Kamis,2,"Perawatan dan Perbaikan Instalasi Penerangan, Tenaga dan Motor Listrik",Eli Rahmawati,36
+B,XI TKL B,Kamis,4,Kewirausahaan,Eli Rahmawati,36
+B,XI TKL B,Kamis,5,Kewirausahaan,Eli Rahmawati,36
+B,XI TKL B,Kamis,7,Instalasi Penerangan Listrik,Dania Maisarah Usbir Nasir,27
+B,XI TKL B,Kamis,10,Instalasi Tenaga Listrik,Sarini Djahimuddin,109
+B,XI TKL B,Jumat,4,"Kreativitas, Inovasi, dan Kewirausahaan",Eli Rahmawati,36
+B,XI TKL B,Jumat,5,"Kreativitas, Inovasi, dan Kewirausahaan",Eli Rahmawati,36
+B,XI TKL B,Jumat,6,"Perawatan dan Perbaikan Instalasi Penerangan, Tenaga dan Motor Listrik",Eli Rahmawati,36
+B,XI TKL B,Jumat,7,"Perawatan dan Perbaikan Instalasi Penerangan, Tenaga dan Motor Listrik",Eli Rahmawati,36
+B,XI TKP A,Senin,2,Bahasa Indonesia,Zainab,130
+B,XI TKP A,Senin,3,Bahasa Indonesia,Zainab,130
+B,XI TKP A,Senin,4,Bahasa Indonesia,Zainab,130
+B,XI TKP A,Senin,6,Matematika,,
+B,XI TKP A,Senin,8,Mapel Pilihan,Abdul Haris,1
+B,XI TKP A,Senin,9,Mapel Pilihan,Abdul Haris,1
+B,XI TKP A,Senin,10,Mapel Pilihan,Abdul Haris,1
+B,XI TKP A,Selasa,2,Matematika,,
+B,XI TKP A,Selasa,5,Mapel Pilihan,Abdul Haris,1
+B,XI TKP A,Selasa,7,Pendiidikan Pancasila,Muhammad Darno,83
+B,XI TKP A,Selasa,8,Pendiidikan Pancasila,Muhammad Darno,83
+B,XI TKP A,Selasa,10,Bahasa Inggris,Dewi Sartika Mohammad,28
+B,XI TKP A,Rabu,1,Sejarah,Jamalia,66
+B,XI TKP A,Rabu,2,Sejarah,Jamalia,66
+B,XI TKP A,Rabu,3,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,XI TKP A,Rabu,4,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,XI TKP A,Rabu,5,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,XI TKP A,Rabu,6,Pendiidikan Pancasila,Muhammad Darno,83
+B,XI TKP A,Rabu,7,Pendiidikan Pancasila,Muhammad Darno,83
+B,XI TKP A,Rabu,8,Mapel Pilihan,Abdul Haris,1
+B,XI TKP A,Rabu,9,Mapel Pilihan,Abdul Haris,1
+B,XI TKP A,Rabu,10,Bahasa Inggris,Dewi Sartika Mohammad,28
+B,XI TKP A,Rabu,11,Bahasa Inggris,Dewi Sartika Mohammad,28
+B,XI TKP A,Kamis,1,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,XI TKP A,Kamis,2,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,XI TKP A,Kamis,3,Pendidikan Agama dan Budi Pekerti,Hayati,48
+B,XI TKP A,Kamis,5,Bahasa Indonesia,Zainab,130
+B,XI TKP A,Kamis,7,Sejarah,Jamalia,66
+B,XI TKP A,Kamis,8,Sejarah,Jamalia,66
+B,XI TKP A,Kamis,10,Bahasa Inggris,Dewi Sartika Mohammad,28
+B,XI TKP A,Jumat,4,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,XI TKP A,Jumat,5,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,XI TKP A,Jumat,6,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,XI TKP A,Jumat,7,"Pendidikan Jasmani, Olah raga",dan Kesehatan,
+B,XI TKP B,Senin,2,"Kreativitas, Inovasi, dan Kewirausahaan",Indrawaty,60
+B,XI TKP B,Senin,3,"Kreativitas, Inovasi, dan Kewirausahaan",Indrawaty,60
+B,XI TKP B,Senin,4,"Kreativitas, Inovasi, dan Kewirausahaan",Indrawaty,60
+B,XI TKP B,Senin,5,Pelaksanaan pekerjaan konstruksi dan perumahan,I. Wayan,55
+B,XI TKP B,Senin,6,Pelaksanaan pekerjaan konstruksi dan perumahan,I. Wayan,55
+B,XI TKP B,Senin,7,Pelaksanaan pekerjaan konstruksi dan perumahan,I. Wayan,55
+B,XI TKP B,Senin,8,Pelaksanaan pekerjaan konstruksi dan perumahan,I. Wayan,55
+B,XI TKP B,Senin,9,Sudra,,
+B,XI TKP B,Selasa,2,Pengawasan pekerjaan konstruksi dan perumahan,Indrawaty,60
+B,XI TKP B,Selasa,3,Pengawasan pekerjaan konstruksi dan perumahan,Indrawaty,60
+B,XI TKP B,Selasa,5,"Krea tiv i ta s , I n o v a s i, dan K e w ir a u s a h a a n",Indrawaty,60
+B,XI TKP B,Selasa,6,"Krea tiv i ta s , I n o v a s i, dan K e w ir a u s a h a a n",Indrawaty,60
+B,XI TKP B,Selasa,8,Estimasi biaya konstruksi dan,perumahan,
+B,XI TKP B,Selasa,9,Estimasi biaya konstruksi dan,perumahan,
+B,XI TKP B,Rabu,1,Perencanaan pekerjaan konstruksi dan perumahan,Agung Dwi Putra,5
+B,XI TKP B,Rabu,2,Perencanaan pekerjaan konstruksi dan perumahan,Agung Dwi Putra,5
+B,XI TKP B,Rabu,4,Kewirausahaan,Indrawaty,60
+B,XI TKP B,Rabu,5,Kewirausahaan,Indrawaty,60
+B,XI TKP B,Rabu,7,Pelaksanaan pekerjaan konstruksi dan perumahan,I. Wayan Sudra,55
+B,XI TKP B,Rabu,8,Pelaksanaan pekerjaan konstruksi dan perumahan,I. Wayan Sudra,55
+B,XI TKP B,Rabu,9,Pelaksanaan pekerjaan konstruksi dan perumahan,I. Wayan Sudra,55
+B,XI TKP B,Kamis,5,Estimasi biaya konstruksi,dan perumahan,
+B,XI TKP B,Kamis,6,Estimasi biaya konstruksi,dan perumahan,
+B,XI TKP B,Jumat,4,Perencanaan pekerjaan kons t r u k si d a n p e ru m ahan,A g u n g D w i P u tra,5
+B,XI TKP B,Jumat,5,Perencanaan pekerjaan kons t r u k si d a n p e ru m ahan,A g u n g D w i P u tra,5
+B,XI TKP B,Jumat,6,"Kreativitas, Inovasi, dan Kewirausahaan",Indrawaty,60
+B,XI TKP B,Jumat,7,"Kreativitas, Inovasi, dan Kewirausahaan",Indrawaty,60
+B,XI TKR A,Senin,2,Bahasa Indonesia 40 Fatmawati Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR A,Senin,3,Bahasa Indonesia 40 Fatmawati Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR A,Senin,4,Bahasa Indonesia 40 Fatmawati Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR A,Senin,5,Bahasa Indonesia 40 Fatmawati Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR A,Senin,6,Bahasa Indonesia 40 Fatmawati Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR A,Senin,7,Sejarah,Adolphina Duma,4
+B,XI TKR A,Senin,8,Sejarah,Adolphina Duma,4
+B,XI TKR A,Senin,9,Mapel,Pilihan,
+B,XI TKR A,Senin,10,Mapel,Pilihan,
+B,XI TKR A,Selasa,2,Bahasa Inggris,,
+B,XI TKR A,Selasa,4,Sejarah,Adolphina Duma,4
+B,XI TKR A,Selasa,5,Sejarah,Adolphina Duma,4
+B,XI TKR A,Selasa,6,Matematika,Asmawati P,20
+B,XI TKR A,Selasa,7,Matematika,Asmawati P,20
+B,XI TKR A,Selasa,10,Mapel Pilihan,Rapnawati,95
+B,XI TKR A,Rabu,2,Bahasa Inggris,,
+B,XI TKR A,Rabu,4,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKR A,Rabu,5,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKR A,Rabu,6,Bahasa Indonesia,Fatmawati,40
+B,XI TKR A,Rabu,7,Bahasa Indonesia,Fatmawati,40
+B,XI TKR A,Rabu,10,Pendidikan Agama dan Budi Pekerti,Zuraina,131
+B,XI TKR A,Kamis,1,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKR A,Kamis,2,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKR A,Kamis,4,Pendidikan Agama dan Budi Pekerti,Zuraina,131
+B,XI TKR A,Kamis,6,Matematika,Asmawati P,20
+B,XI TKR A,Kamis,7,Matematika,Asmawati P,20
+B,XI TKR A,Kamis,10,Mapel Pilihan,Rapnawati,95
+B,XI TKR A,Jumat,4,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TKR A,Jumat,5,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TKR A,Jumat,6,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TKR B,Senin,4,Prosedur,Penggunaan,
+B,XI TKR B,Senin,5,Prosedur,Penggunaan,
+B,XI TKR B,Senin,6,Prosedur,Penggunaan,
+B,XI TKR B,Senin,7,Prosedur,Penggunaan,
+B,XI TKR B,Selasa,1,Prosedur Penggunaan Kendaraan Ringan,Abdul Rahman,2
+B,XI TKR B,Selasa,2,Prosedur Penggunaan Kendaraan Ringan,Abdul Rahman,2
+B,XI TKR B,Selasa,4,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TKR B,Selasa,5,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TKR B,Selasa,7,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TKR B,Selasa,8,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TKR B,Selasa,9,Konversi Energi Kendaraan Ringan,Wahyudin,126
+B,XI TKR B,Selasa,10,Konversi Energi Kendaraan Ringan,Wahyudin,126
+B,XI TKR B,Selasa,11,Konversi Energi Kendaraan Ringan,Wahyudin,126
+B,XI TKR B,Rabu,1,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TKR B,Rabu,2,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TKR B,Rabu,3,Proses Pelayanan dan Manajemen Bengkel Kendaraan Ringan,Abdul Rahman,2
+B,XI TKR B,Rabu,4,Proses Pelayanan dan Manajemen Bengkel Kendaraan Ringan,Abdul Rahman,2
+B,XI TKR B,Rabu,6,Proses Pelayanan dan Ringan,Abdul Rahman,2
+B,XI TKR B,Rabu,7,Proses Pelayanan dan Ringan,Abdul Rahman,2
+B,XI TKR B,Rabu,8,Proses Pelayanan dan Ringan,Abdul Rahman,2
+B,XI TKR B,Rabu,9,Konversi Energi Kendaraan Ringan,Wahyudin,126
+B,XI TKR B,Rabu,10,Konversi Energi Kendaraan Ringan,Wahyudin,126
+B,XI TKR B,Rabu,11,Konversi Energi Kendaraan Ringan,Wahyudin,126
+B,XI TKR B,Kamis,1,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TKR B,Kamis,2,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TKR B,Kamis,7,Sistem Sasis Kendaraan Ringan,Rio Hamsidar,99
+B,XI TKR B,Jumat,4,Sistem Sasis Kendaraan Ringan,Rio Hamsidar,99
+B,XI TKR B,Jumat,5,Sistem Sasis Kendaraan Ringan,Rio Hamsidar,99
+B,XI TKR B,Jumat,6,Sistem Sasis Kendaraan Ringan,Rio Hamsidar,99
+B,XI TKR C,Senin,2,Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR C,Senin,3,Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR C,Senin,4,Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR C,Senin,5,Pendidikan,Agama dan,
+B,XI TKR C,Senin,6,Pendidikan,Agama dan,
+B,XI TKR C,Senin,7,Pendidikan,Agama dan,
+B,XI TKR C,Senin,9,Mapel,Pilihan,
+B,XI TKR C,Selasa,1,Sejarah,Adolphina Duma,4
+B,XI TKR C,Selasa,2,Sejarah,Adolphina Duma,4
+B,XI TKR C,Selasa,4,Bahasa Indonesia,Fatmawati,40
+B,XI TKR C,Selasa,7,Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR C,Selasa,8,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKR C,Selasa,9,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKR C,Rabu,1,Sejarah,Adolphina Duma,4
+B,XI TKR C,Rabu,2,Sejarah,Adolphina Duma,4
+B,XI TKR C,Rabu,4,Bahasa Indonesia,Fatmawati,40
+B,XI TKR C,Rabu,7,Pendidikan Agama dan Budi Pekerti,Zuraina,131
+B,XI TKR C,Rabu,10,Matematika,,
+B,XI TKR C,Kamis,2,Matematika,,
+B,XI TKR C,Kamis,4,Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR C,Kamis,5,Bahasa Inggris,Yeni Indah Hidayat,129
+B,XI TKR C,Kamis,7,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TKR C,Kamis,10,Mapel Pilihan,,
+B,XI TKR C,Jumat,4,"Pendidikan Jasmani, Olah raga dan Kesehatan",,
+B,XI TKR C,Jumat,7,"Pendidikan Jasmani, Olah raga dan Kesehatan",,
+B,XI TPM A,Senin,2,Pendiidikan Pancasila 22 Bambang Bahasa Inggris,Sawitri Agustrianti,110
+B,XI TPM A,Senin,3,Pendiidikan Pancasila 22 Bambang Bahasa Inggris,Sawitri Agustrianti,110
+B,XI TPM A,Senin,4,Pendiidikan Pancasila 22 Bambang Bahasa Inggris,Sawitri Agustrianti,110
+B,XI TPM A,Senin,5,Pendiidikan Pancasila 22 Bambang Bahasa Inggris,Sawitri Agustrianti,110
+B,XI TPM A,Senin,6,Bahasa Indonesia 44 Hamsinah Sejarah,Putri Ramadhanti,133
+B,XI TPM A,Senin,7,Bahasa Indonesia 44 Hamsinah Sejarah,Putri Ramadhanti,133
+B,XI TPM A,Senin,8,Bahasa Indonesia 44 Hamsinah Sejarah,Putri Ramadhanti,133
+B,XI TPM A,Senin,9,Bahasa Indonesia 44 Hamsinah Sejarah,Putri Ramadhanti,133
+B,XI TPM A,Senin,10,Bahasa Indonesia 44 Hamsinah Sejarah,Putri Ramadhanti,133
+B,XI TPM A,Selasa,2,Mapel Pilihan,Novalia Palinggi,88
+B,XI TPM A,Selasa,3,Mapel Pilihan,Novalia Palinggi,88
+B,XI TPM A,Selasa,5,Bahasa Inggris,Sawitri Agustrianti,110
+B,XI TPM A,Selasa,7,Sejarah,Putri Ramadhanti,133
+B,XI TPM A,Selasa,8,Sejarah,Putri Ramadhanti,133
+B,XI TPM A,Selasa,10,Matematika,Dewiningsih,29
+B,XI TPM A,Rabu,2,Bahasa Indonesia,Hamsinah,44
+B,XI TPM A,Rabu,3,Bahasa Indonesia,Hamsinah,44
+B,XI TPM A,Rabu,5,Mapel Pilihan,Novalia Palinggi,88
+B,XI TPM A,Rabu,7,Pendidikan Agama dan Budi Pekerti,Ahmad Syafi'i,8
+B,XI TPM A,Rabu,8,Pendidikan Agama dan Budi Pekerti,Ahmad Syafi'i,8
+B,XI TPM A,Rabu,10,Bahasa Inggris,Sawitri Agustrianti,110
+B,XI TPM A,Kamis,1,Pendiidikan Pancasila,Bambang,22
+B,XI TPM A,Kamis,2,Pendiidikan Pancasila,Bambang,22
+B,XI TPM A,Kamis,4,Mapel Pilihan,Novalia Palinggi,88
+B,XI TPM A,Kamis,7,Matematika,Dewiningsih,29
+B,XI TPM A,Kamis,8,Matematika,Dewiningsih,29
+B,XI TPM A,Kamis,10,Pendidikan Agama dan Budi Pekerti,Ahmad Syafi'i,8
+B,XI TPM A,Jumat,5,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TPM A,Jumat,6,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TPM A,Jumat,7,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TPM B,Senin,2,Teknik Pemesinan Nonkonvensional,Thithis Yuliarisandi,125
+B,XI TPM B,Senin,3,Teknik Pemesinan Nonkonvensional,Thithis Yuliarisandi,125
+B,XI TPM B,Senin,4,Teknik Pemesinan Nonkonvensional,Thithis Yuliarisandi,125
+B,XI TPM B,Senin,5,Teknik Pemesinan Nonkonvensional,Thithis Yuliarisandi,125
+B,XI TPM B,Senin,6,Teknik Pemesinan Frais,Budi Darmawan,26
+B,XI TPM B,Senin,7,Teknik Pemesinan Frais,Budi Darmawan,26
+B,XI TPM B,Senin,8,Teknik Pemesinan Frais,Budi Darmawan,26
+B,XI TPM B,Senin,9,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Senin,10,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Selasa,3,Gambar Teknik Manufaktur,Thithis Yuliarisandi,125
+B,XI TPM B,Selasa,4,Gambar Teknik Manufaktur,Thithis Yuliarisandi,125
+B,XI TPM B,Selasa,7,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Selasa,8,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Selasa,10,Teknik Pemesinan Frais,Budi Darmawan,26
+B,XI TPM B,Rabu,1,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Rabu,2,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Rabu,3,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Rabu,5,Teknik Pemesinan Gerinda,Budi Darmawan,26
+B,XI TPM B,Rabu,6,Teknik Pemesinan Gerinda,Budi Darmawan,26
+B,XI TPM B,Rabu,8,Teknik Pemesinan Bubut,Budi Darmawan,26
+B,XI TPM B,Rabu,9,Teknik Pemesinan Bubut,Budi Darmawan,26
+B,XI TPM B,Rabu,10,Gambar Teknik Manufaktur,Thithis Yuliarisandi,125
+B,XI TPM B,Kamis,1,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Kamis,2,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Kamis,3,"Kreativitas, Inovasi, dan Kewirausahaan",Irma,62
+B,XI TPM B,Kamis,8,Teknik Pemesinan Bubut,Budi Darmawan,26
+B,XI TPM B,Jumat,5,Teknik Pemesinan Nonkonvensional,Thithis Yuliarisandi,125
+B,XI TPM B,Jumat,6,Teknik Pemesinan Nonkonvensional,Thithis Yuliarisandi,125
+B,XI TSM A,Senin,2,Mapel Pilihan,Roni Potu,102
+B,XI TSM A,Senin,3,Mapel Pilihan,Roni Potu,102
+B,XI TSM A,Senin,4,Mapel Pilihan,Roni Potu,102
+B,XI TSM A,Senin,5,Matematika,122,
+B,XI TSM A,Senin,6,Matematika,122,
+B,XI TSM A,Senin,7,Matematika,122,
+B,XI TSM A,Senin,8,Matematika,122,
+B,XI TSM A,Senin,9,Matematika,122,
+B,XI TSM A,Senin,10,Matematika,122,
+B,XI TSM A,Selasa,1,Bahasa Inggris,Arjust Palintin,18
+B,XI TSM A,Selasa,2,Bahasa Inggris,Arjust Palintin,18
+B,XI TSM A,Selasa,3,Mapel Pilihan,Roni Potu,102
+B,XI TSM A,Selasa,4,Mapel Pilihan,Roni Potu,102
+B,XI TSM A,Selasa,6,Bahasa Indonesia,,
+B,XI TSM A,Selasa,8,Sejarah,Adolphina Duma,4
+B,XI TSM A,Selasa,9,Sejarah,Adolphina Duma,4
+B,XI TSM A,Selasa,10,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TSM A,Rabu,1,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TSM A,Rabu,2,Pendiidikan Pancasila,Hasbiyana Mustafa,46
+B,XI TSM A,Rabu,4,Mapel Pilihan,Roni Potu,102
+B,XI TSM A,Rabu,7,Bahasa Indonesia,Arlin Marselina Toroilu,19
+B,XI TSM A,Rabu,10,Bahasa Inggris,Arjust Palintin,18
+B,XI TSM A,Kamis,1,Sejarah,Adolphina Duma,4
+B,XI TSM A,Kamis,2,Sejarah,Adolphina Duma,4
+B,XI TSM A,Kamis,4,Bahasa Inggris,Arjust Palintin,18
+B,XI TSM A,Kamis,7,Pendidikan Agama dan Budi Pekerti,Zuraina,131
+B,XI TSM A,Kamis,10,Matematika,Syaefulloh,122
+B,XI TSM A,Jumat,4,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TSM A,Jumat,5,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TSM A,Jumat,6,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TSM A,Jumat,7,"Pendidikan Jasmani, Olah raga dan",Kesehatan,
+B,XI TSM B,Senin,2,Perawatan dan Perbaikan Sistem Kelistrikan Sepeda Motor,Selamat Indiarman,111
+B,XI TSM B,Senin,3,Perawatan dan Perbaikan Sistem Kelistrikan Sepeda Motor,Selamat Indiarman,111
+B,XI TSM B,Senin,4,Perawatan dan Perbaikan Sistem Kelistrikan Sepeda Motor,Selamat Indiarman,111
+B,XI TSM B,Senin,5,"Perawatan dan Perbaikan Sasis Sepeda Motor 123 Syarifuddin Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Senin,6,"Perawatan dan Perbaikan Sasis Sepeda Motor 123 Syarifuddin Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Senin,7,"Perawatan dan Perbaikan Sasis Sepeda Motor 123 Syarifuddin Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Senin,8,"Perawatan dan Perbaikan Sasis Sepeda Motor 123 Syarifuddin Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Senin,9,"Perawatan dan Perbaikan Sasis Sepeda Motor 123 Syarifuddin Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Senin,10,"Perawatan dan Perbaikan Sasis Sepeda Motor 123 Syarifuddin Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Selasa,4,Perawatan dan Perbaikan Sasis Sepeda Motor,Syarifuddin,123
+B,XI TSM B,Selasa,5,Perawatan dan Perbaikan Sasis Sepeda Motor,Syarifuddin,123
+B,XI TSM B,Selasa,10,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Selasa,11,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Rabu,4,Perawatan dan Perbaikan Sistem Kelistrikan Sepeda Motor,Selamat Indiarman,111
+B,XI TSM B,Rabu,5,Perawatan dan Perbaikan Sistem Kelistrikan Sepeda Motor,Selamat Indiarman,111
+B,XI TSM B,Rabu,10,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Rabu,11,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Kamis,3,Perawatan dan Perbaikan Engine Sepeda Motor,Roni Potu,102
+B,XI TSM B,Kamis,4,Perawatan dan Perbaikan Engine Sepeda Motor,Roni Potu,102
+B,XI TSM B,Kamis,7,Perawatan dan Perbaikan Engine Sepeda Motor,Roni Potu,102
+B,XI TSM B,Kamis,10,"Kreativitas, Inovasi, dan Kewirausahaan","Sumarni, SE",119
+B,XI TSM B,Jumat,4,Perawatan dan Perbaikan Engine Sepeda Motor,Roni Potu,102
+B,XI TSM B,Jumat,5,Perawatan dan Perbaikan Engine Sepeda Motor,Roni Potu,102
+B,XI TSM B,Jumat,6,Perawatan dan Perbaikan Engine Sepeda Motor,Roni Potu,102
